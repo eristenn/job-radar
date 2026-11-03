@@ -1,0 +1,3491 @@
+{
+ "jobs": {
+  "oracle:egug:26013319": {
+   "alerted": "baseline",
+   "company": "American Express",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "oracle:egug:26013319",
+   "location": "Atlanta, GA",
+   "posted": "2026-09-29",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level"
+   ],
+   "tier": "fit",
+   "title": "Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013319",
+   "years": null
+  },
+  "oracle:eihu:2617557": {
+   "alerted": "baseline",
+   "company": "SAIC",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "oracle:eihu:2617557",
+   "location": "Remote Work, TN, United States",
+   "posted": "2026-11-03",
+   "sources": [
+    "saic-cx"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Cybersecurity Specialist Splunk Engineer",
+   "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2617557",
+   "years": 3
+  },
+  "oracle:eihu:2617590": {
+   "alerted": "baseline",
+   "company": "SAIC",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "oracle:eihu:2617590",
+   "location": "Remote Work, TX, United States",
+   "posted": "2026-10-05",
+   "sources": [
+    "saic-cx"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Penetration Tester",
+   "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2617590",
+   "years": 4
+  },
+  "oracle:emje:22384": {
+   "alerted": "baseline",
+   "company": "Southern Company",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "oracle:emje:22384",
+   "location": "Atlanta, GA, United States; Birmingham, AL, United States",
+   "posted": "2026-10-23",
+   "sources": [
+    "southern-company-second-site-cx-1001",
+    "southern-company-southerncompanyjobs"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "Application Security Analyst",
+   "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SouthernCompanyJobs/job/22384",
+   "years": null
+  },
+  "oracle:emje:22487": {
+   "alerted": "baseline",
+   "company": "Southern Company",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "oracle:emje:22487",
+   "location": "Atlanta, GA, United States",
+   "posted": "2026-10-29",
+   "sources": [
+    "southern-company-second-site-cx-1001",
+    "southern-company-southerncompanyjobs"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Cyber Threat Analyst",
+   "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SouthernCompanyJobs/job/22487",
+   "years": 3
+  },
+  "url:apply.workable.com/trailofbits/j/ba9f2fcda6": {
+   "alerted": "baseline",
+   "company": "Trail of Bits",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "url:apply.workable.com/trailofbits/j/ba9f2fcda6",
+   "location": "Remote (US)",
+   "posted": "2026-09-29",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Security Engineer I, Application Security",
+   "url": "https://apply.workable.com/trailofbits/j/BA9F2FCDA6/",
+   "years": null
+  },
+  "url:apply.workable.com/trailofbits/j/c7fea82cf5": {
+   "alerted": "baseline",
+   "company": "Trail of Bits",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "url:apply.workable.com/trailofbits/j/c7fea82cf5",
+   "location": "Remote (US)",
+   "posted": "2026-09-29",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Security Engineer II, Application Security",
+   "url": "https://apply.workable.com/trailofbits/j/C7FEA82CF5/",
+   "years": null
+  },
+  "url:boards.greenhouse.io/guidepointsecurity/jobs/6191766004": {
+   "alerted": "baseline",
+   "company": "GuidePoint Security",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "url:boards.greenhouse.io/guidepointsecurity/jobs/6191766004",
+   "location": "Remote (US)",
+   "posted": "2026-09-28",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Associate Cloud Security Engineer- AWS- Remote (Anywhere in the U.S.)",
+   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004",
+   "years": null
+  },
+  "url:instacart.careers/job": {
+   "alerted": "baseline",
+   "company": "Instacart",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "url:instacart.careers/job",
+   "location": "Remote (US)",
+   "posted": "2026-07-22",
+   "sources": [
+    "hackedrico-2027-cyber-jobs",
+    "simplify-new-grad"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Detection Engineer II",
+   "url": "https://instacart.careers/job/?gh_jid=8080512",
+   "years": null
+  },
+  "url:job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009": {
+   "alerted": "baseline",
+   "company": "First Due",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "url:job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
+   "location": "Remote in USA",
+   "posted": "2026-08-13",
+   "sources": [
+    "simplify-new-grad"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Cloud Security Software Engineer",
+   "url": "https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
+   "years": null
+  },
+  "workday:accenture:13944448": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:13944448",
+   "location": "Jeddah, Al Murjanah Tower",
+   "posted": "2026-09-08",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Network Security Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jeddah-Al-Murjanah-Tower/Threat-Management-Senior-Analyst_13944448",
+   "years": null
+  },
+  "workday:accenture:14265836": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14265836",
+   "location": "Sydney, International House, 3 Sussex St",
+   "posted": "2026-09-10",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "active clearance"
+   ],
+   "tier": "stretch",
+   "title": "Cybersecurity GRC Analyst- AU Citizen with Security Clearance",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/Cybersecurity-GRC-Analyst--AU-Citizen-with-Security-Clearance_14265836",
+   "years": null
+  },
+  "workday:accenture:14267171": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14267171",
+   "location": "Kuwait City",
+   "posted": "2026-10-19",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "SOC Analyst",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuwait-City/SOC-Analyst_14267171",
+   "years": 1
+  },
+  "workday:accenture:14303187": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14303187",
+   "location": "",
+   "posted": "Posted 30+ Days Ago",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "AWS Security Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne/AWS-Security-Engineer_14303187-1",
+   "years": null
+  },
+  "workday:accenture:14426073": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14426073",
+   "location": "Riyadh",
+   "posted": "2026-11-01",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "IAM Analyst- Saudi Nationals",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Identity-Management-Consultant----SME_14426073",
+   "years": null
+  },
+  "workday:accenture:14438486": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14438486",
+   "location": "Riyadh",
+   "posted": "2026-11-01",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Network Security Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Cyber-Defense-Consultant---SME_14438486",
+   "years": null
+  },
+  "workday:accenture:14530698": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14530698",
+   "location": "Cairo, CO55-Uvenues",
+   "posted": "2026-11-01",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "PAM - CyberArk / Delinea / BeyondTrust Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cairo-CO55-Uvenues/PAM---CyberArk---Delinea---BeyondTrust-Engineer_14530698",
+   "years": 3
+  },
+  "workday:accenture:14663037": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14663037",
+   "location": "Kuwait City",
+   "posted": "2026-09-29",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "SOC Analyst - L1",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuwait-City/SOC-Analyst---L1_14663037",
+   "years": 1
+  },
+  "workday:accenture:14775738": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14775738",
+   "location": "Matosinhos, Broadway",
+   "posted": "2026-10-22",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Cloudflare Network Security Specialist",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Matosinhos-Broadway/Cloudflare-Network-Security-Specialist_14775738",
+   "years": 4
+  },
+  "workday:accenture:14775747": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14775747",
+   "location": "Matosinhos, Broadway",
+   "posted": "2026-10-22",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Cloudflare Application Security Specialist",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Matosinhos-Broadway/Cloudflare-Application-Security-Specialist_14775747-1",
+   "years": 2
+  },
+  "workday:accenture:14819844": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14819844",
+   "location": "Santiago",
+   "posted": "2026-10-07",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Vulnerability & Change Management",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Vulnerability---Change-Management_14819844",
+   "years": null
+  },
+  "workday:accenture:14830116": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14830116",
+   "location": "Bangkok",
+   "posted": "2026-10-12",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Application Security Analyst",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bangkok/Application-Security-Analyst_14830116",
+   "years": null
+  },
+  "workday:accenture:14840486": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14840486",
+   "location": "Abu Dhabi, Sowwah Square - Al Sila Tower",
+   "posted": "2026-10-19",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "OT Security Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Security-Consultant_14840486",
+   "years": 4
+  },
+  "workday:accenture:14840521": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14840521",
+   "location": "Riyadh",
+   "posted": "2026-10-19",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "OT Security Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Security-Consultant_14840521",
+   "years": 4
+  },
+  "workday:accenture:14896128": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14896128",
+   "location": "Petaling Jaya, Plaza 33",
+   "posted": "2026-10-30",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Associate Security Engineer (Networking)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Petaling-Jaya-Plaza-33/Associate-Security-Engineer--Networking-_14896128",
+   "years": 3
+  },
+  "workday:accenture:14896133": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:14896133",
+   "location": "Petaling Jaya, Plaza 33",
+   "posted": "2026-10-30",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Security Engineer (Networking)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Petaling-Jaya-Plaza-33/Security-Engineer--Networking-_14896133",
+   "years": 3
+  },
+  "workday:accenture:r00250583": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00250583",
+   "location": "Melbourne; Auckland",
+   "posted": "2026-03-02",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Primary Technical Incident Responder (Cyber Response Team) Australia / New Zealand - Mid level",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne/Primary-Technical-Incident-Response-Lead--Cyber-Response-Team--Australia---New-Zealand_R00250583",
+   "years": null
+  },
+  "workday:accenture:r00259173": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00259173",
+   "location": "Mandaluyong",
+   "posted": "2026-02-06",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Cybersecurity and Incident Response Specialist",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mandaluyong/Cybersecurity-and-Incident-Response-Specialist_R00259173-1",
+   "years": 4
+  },
+  "workday:accenture:r00265284": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00265284",
+   "location": "Jakarta",
+   "posted": "2025-04-03",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Security Threat Hunting",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jakarta/Security-Threat-Hunting_R00265284",
+   "years": 3
+  },
+  "workday:accenture:r00267861": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00267861",
+   "location": "Madrid",
+   "posted": "2026-10-06",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberSecurity Analyst / Consultant 22301 - continuidad de negocio",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/CyberSecurity-Analyst---Consultant-22301---continuidad-de-negocio_R00267861",
+   "years": null
+  },
+  "workday:accenture:r00277541": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00277541",
+   "location": "Kronberg, Building Beta; Stuttgart; Hamburg; Dusseldorf; Munich; Berlin, Hallesches Ufer 40",
+   "posted": "2026-10-08",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Cybersecurity Consulting - Public Sector (all genders)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Building-Beta/Cybersecurity-Consultant---Public-Sector--all-genders-_R00277541",
+   "years": null
+  },
+  "workday:accenture:r00281584": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00281584",
+   "location": "Warsaw; Lodz; Krakow; Wroclaw; Katowice (Remote)",
+   "posted": "2026-04-10",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "SAP Security Analyst / Consultant (She/He/They)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/SAP-Security-Consultant--She-He-They-_R00281584",
+   "years": 2
+  },
+  "workday:accenture:r00282171": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00282171",
+   "location": "Kfar Saba",
+   "posted": "2026-09-02",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Penetration Tester",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kfar-Saba/Cyber-Security-Expert_R00282171-1",
+   "years": 3
+  },
+  "workday:accenture:r00282184": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00282184",
+   "location": "Amsterdam",
+   "posted": "2026-09-24",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "SIEM Security Consultant (Dutch speaker)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/SIEM-Security-Engineer_R00282184",
+   "years": null
+  },
+  "workday:accenture:r00282590": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00282590",
+   "location": "Merida, City 32 (Remote)",
+   "posted": "2025-08-19",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Security Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Merida-City-32/Security-Engineer_R00282590",
+   "years": null
+  },
+  "workday:accenture:r00285215": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00285215",
+   "location": "Milano; Roma; Torino; Rende; Napoli; Bari",
+   "posted": "2026-07-02",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Cybersecurity Analyst",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Neolaureate-i---Security-Analyst_R00285215",
+   "years": null
+  },
+  "workday:accenture:r00292572": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00292572",
+   "location": "Assago; Roma; Torino; Napoli",
+   "posted": "2026-06-24",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Incident Response Digital Investigator",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago/Incident-Response-Digital-Investigator_R00292572-1",
+   "years": null
+  },
+  "workday:accenture:r00298411": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00298411",
+   "location": "Amsterdam",
+   "posted": "2026-02-03",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Security Consultant \u2013 Products Security Industries",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Security-Consultant---Products-Security-Industries_R00298411",
+   "years": 3
+  },
+  "workday:accenture:r00300237": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00300237",
+   "location": "Riga",
+   "posted": "2025-12-03",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Workplace Platform & Security Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riga/Workplace-Platform---Security-Engineer_R00300237",
+   "years": null
+  },
+  "workday:accenture:r00301806": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00301806",
+   "location": "Amsterdam",
+   "posted": "2026-09-17",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "OT Cyber Security Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Cybersecurity-Manager-Industrial-and-OT-Security_R00301806",
+   "years": 4
+  },
+  "workday:accenture:r00307030": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00307030",
+   "location": "Amsterdam",
+   "posted": "2026-01-16",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Security Consultant Resources",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Security-Consultant-Resources_R00307030",
+   "years": 3
+  },
+  "workday:accenture:r00307035": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00307035",
+   "location": "Amsterdam",
+   "posted": "2026-01-15",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Security Consultant CMT",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Security-Consultant-CMT_R00307035",
+   "years": 3
+  },
+  "workday:accenture:r00318564": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00318564",
+   "location": "Kuala Lumpur",
+   "posted": "2026-06-05",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Information Security Digital Data Reviewer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur/Information-Security-Digital-Data-Reviewer_R00318564",
+   "years": 1
+  },
+  "workday:accenture:r00333100": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00333100",
+   "location": "Oslo",
+   "posted": "2026-10-21",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Cybersecurity Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Oslo/Cybersecurity-Consultant_R00333100",
+   "years": null
+  },
+  "workday:accenture:r00334996": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00334996",
+   "location": "Newcastle, Cobalt Business Park Bldg 9C",
+   "posted": "2026-10-30",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "clearance eligible"
+   ],
+   "tier": "fit",
+   "title": "Security Consultant - H&PS",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Newcastle-Cobalt-Business-Park-Bldg-9C/Security-Consultant---H-P_R00334996",
+   "years": null
+  },
+  "workday:accenture:r00335563": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00335563",
+   "location": "Prague",
+   "posted": "2026-08-31",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Cyber Security Threat Hunter_#CFC Prague",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Cyber-Security-Threat-Hunter--CFC-Prague_R00335563",
+   "years": 3
+  },
+  "workday:accenture:r00337926": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00337926",
+   "location": "Athens",
+   "posted": "2026-07-06",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "AI Security Engineer for Newra, Part of Accenture",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Athens/AI-Security-Engineer-for-Newra--Part-of-Accenture_R00337926",
+   "years": 4
+  },
+  "workday:accenture:r00337973": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00337973",
+   "location": "Amsterdam",
+   "posted": "2026-09-07",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Scriptiestage Cyber Security",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Security-Transformation-New-Associate_R00337973",
+   "years": null
+  },
+  "workday:accenture:r00339940": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00339940",
+   "location": "Stockholm",
+   "posted": "2026-08-14",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Identity & Access Management Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/Identity---Access-Management-Consultant_R00339940",
+   "years": 3
+  },
+  "workday:accenture:r00339945": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00339945",
+   "location": "Stavanger",
+   "posted": "2026-07-09",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Security Consultant to Stavanger",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stavanger/Security-Consultant-to-Stavanger_R00339945",
+   "years": null
+  },
+  "workday:accenture:r00343167": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00343167",
+   "location": "Canberra, 65 Canberra Avenue Bldg",
+   "posted": "2026-10-01",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "clearance eligible"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Consultant - GRC",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra-65-Canberra-Avenue-Bldg/CyberCX---Consultant---GRC_R00343167",
+   "years": 1
+  },
+  "workday:accenture:r00343432": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00343432",
+   "location": "Kfar Saba",
+   "posted": "2026-10-11",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "SOC Analyst (L2/L3) and Security Advisor",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kfar-Saba/SOC-Analyst--L2-L3--and-Security-Advisor_R00343432",
+   "years": 3
+  },
+  "workday:accenture:r00343457": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00343457",
+   "location": "Brisbane, 10 Eagle Street",
+   "posted": "2026-10-15",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Security Analyst",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brisbane-10-Eagle-Street/CyberCX---Security-Analyst_R00343457",
+   "years": null
+  },
+  "workday:accenture:r00344412": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00344412",
+   "location": "Wellington; Auckland, 131 Queen",
+   "posted": "2026-10-12",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - IAM Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Wellington/CyberCX---IAM-Consultant_R00344412",
+   "years": 2
+  },
+  "workday:accenture:r00344415": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00344415",
+   "location": "Sydney; Brisbane, 10 Eagle Street; Canberra, 65 Canberra Avenue Bldg; Adelaide, 30 Pirie Street; Melbourne, 161 Collins Street, Level 5",
+   "posted": "2026-10-12",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - IAM Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney/CyberCX---IAM-Consultant_R00344415",
+   "years": 2
+  },
+  "workday:accenture:r00344446": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00344446",
+   "location": "Wellington; Christchurch; Auckland",
+   "posted": "2026-10-06",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "CyberCX - Consultant, Application Security",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Wellington/CyberCX---Consultant--Application-Security_R00344446-1",
+   "years": 4
+  },
+  "workday:accenture:r00347602": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00347602",
+   "location": "Melbourne",
+   "posted": "2026-10-22",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Cyber Security Strategy Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne/CyberCX---Consultant_R00347602",
+   "years": 1
+  },
+  "workday:accenture:r00347648": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00347648",
+   "location": "Sydney",
+   "posted": "2026-10-26",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Cyber Security Strategy Consultant - Sydney",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney/CyberCX---Cyber-Security-Strategy-Consultant---Sydney_R00347648",
+   "years": 1
+  },
+  "workday:accenture:r00349808": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00349808",
+   "location": "Philadelphia, 2001 Market St, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Cincinnati, 4th Street, Corp; New York, One Manhattan West, Corp; Cleveland, 1400 W 10th Street, Corp; Austin, 323 Congress Avenue, Corp; Albany, 69 State St, Corp; Chicago, Accenture Tower, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Hartford, 280 Trumbull, Corp; Pittsburgh, 1001 Liberty Ave, Corp; St. Louis, 4220 Duncan Avenue, Corp; Miami, 777 Brickell Ave, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; Morristown, 1 Speedwell Ave, Corp; San Francisco, 415 Mission Street, Corp; Boston, 888 Boylston, Corp; Denver, 999 18th St, Corp; Des Moines, 909 Locust, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Charlotte, 1120 S Tryon St., Corp; Carmel, 11939 N Meridian St., Corp; Seattle, 1191 2nd Avenue, Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Beaverton, 15220 NW Greenbrier, Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp",
+   "posted": "2026-10-28",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Zero Trust - SASE - Network Security Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Philadelphia-2001-Market-St-Corp/Zero-Trust---SASE---Infrastructure-Security-Consultant_R00349808",
+   "years": 3
+  },
+  "workday:accenture:r00350386": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00350386",
+   "location": "Canberra",
+   "posted": "2026-10-09",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "clearance eligible"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Microsoft Cloud Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra/CyberCX---Microsoft-Cloud-Consultant_R00350386",
+   "years": null
+  },
+  "workday:accenture:r00350393": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00350393",
+   "location": "Auckland; Wellington",
+   "posted": "2026-10-02",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Microsoft Cloud Security Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Auckland/CyberCX---Microsoft-Cloud-Security-Consultant_R00350393",
+   "years": 1
+  },
+  "workday:accenture:r00350805": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00350805",
+   "location": "Sydney, International House, 3 Sussex St; Perth; Brisbane; Adelaide",
+   "posted": "2026-10-06",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "clearance eligible"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Microsoft Cloud Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/CyberCX---Microsoft-Cloud-Engineer_R00350805-1",
+   "years": 1
+  },
+  "workday:accenture:r00350828": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00350828",
+   "location": "Canberra",
+   "posted": "2026-10-09",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "clearance eligible"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Microsoft Cloud Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra/CyberCX---Microsoft-Cloud-Engineer_R00350828",
+   "years": 1
+  },
+  "workday:accenture:r00350857": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00350857",
+   "location": "Sydney, International House, 3 Sussex St; Perth; Brisbane; Canberra; Adelaide",
+   "posted": "2026-10-01",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Microsoft Cloud Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/CyberCX---Microsoft-Cloud-Consultant_R00350857",
+   "years": null
+  },
+  "workday:accenture:r00350859": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00350859",
+   "location": "Sydney; Perth; Brisbane; Canberra",
+   "posted": "2026-10-01",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "clearance eligible"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Microsoft Cloud Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney/CyberCX---Microsoft-Cloud-Engineer_R00350859",
+   "years": 1
+  },
+  "workday:accenture:r00351716": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00351716",
+   "location": "Stockholm",
+   "posted": "2026-10-26",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Cybersecurity Consultant to Accenture",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/Accenture-Cybersecurity_R00351716",
+   "years": 2
+  },
+  "workday:accenture:r00351853": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00351853",
+   "location": "Chicago, Accenture Tower, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Kirkland, 416 6th Street South, Corp; Cincinnati, 4th Street, Corp; New York, One Manhattan West, Corp; Cleveland, 1400 W 10th Street, Corp; Oklahoma City, 525 NW 11th St, Corp; Austin, 323 Congress Avenue, Corp; Albany, 69 State St, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Hartford, 280 Trumbull, Corp; Pittsburgh, 1001 Liberty Ave, Corp; St. Louis, 4220 Duncan Avenue, Corp; Miami, 777 Brickell Ave, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; San Francisco, 415 Mission Street, Corp; Morristown, 1 Speedwell Ave, Corp; Denver, 999 18th St, Corp; Boston, 888 Boylston, Corp; Philadelphia, 2001 Market St, Corp; Des Moines, 909 Locust, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Charlotte, 1120 S Tryon St., Corp; Walnut Creek, 1255 Treat Blvd, Corp; Carmel, 11939 N Meridian St., Corp; Seattle, 1191 2nd Avenue, Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Orlando, 9400 Southpark, Corp; Redmond, 8383 158th Avenue NE, Corp; Bentonville, 805 S Walton Blvd., Corp; Beaverton, 15220 NW Greenbrier, Corp; Nashville, 4101 Charlotte Ave., Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp",
+   "posted": "2026-09-28",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "OT Cybersecurity Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/OT-Cybersecurity-Consultant_R00351853-1",
+   "years": 2
+  },
+  "workday:accenture:r00352032": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00352032",
+   "location": "Riyadh",
+   "posted": "2026-08-23",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "OT Incident Response",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/OT-Incident-Response_R00352032",
+   "years": 4
+  },
+  "workday:accenture:r00353377": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00353377",
+   "location": "Petaling Jaya, Plaza 33",
+   "posted": "2026-08-30",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Managed Security Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Petaling-Jaya-Plaza-33/Managed-Security-Engineer_R00353377",
+   "years": null
+  },
+  "workday:accenture:r00353406": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00353406",
+   "location": "Sydney, International House, 3 Sussex St; Brisbane, 10 Eagle Street; Canberra, 65 Canberra Avenue Bldg; Adelaide, 30 Pirie Street; Melbourne, 161 Collins Street, Level 5; Perth, Exchange Tower (Remote)",
+   "posted": "2026-10-14",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Engineer (FDE) - Secure AI",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/CyberCX---Engineer--FDE----Secure-AI_R00353406",
+   "years": 2
+  },
+  "workday:accenture:r00353413": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00353413",
+   "location": "Sydney, International House, 3 Sussex St; Brisbane, 10 Eagle Street; Canberra, 65 Canberra Avenue Bldg; Adelaide, 30 Pirie Street; Melbourne, 161 Collins Street, Level 5; Perth, Exchange Tower",
+   "posted": "2026-10-01",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Engineer (FDE) - Secure AI",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/CyberCX---Engineer--FDE----Secure-AI_R00353413",
+   "years": null
+  },
+  "workday:accenture:r00354712": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00354712",
+   "location": "Chicago, Accenture Tower, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Kirkland, 416 6th Street South, Corp; Cincinnati, 4th Street, Corp; New York, One Manhattan West, Corp; Cleveland, 1400 W 10th Street, Corp; Oklahoma City, 525 NW 11th St, Corp; Austin, 323 Congress Avenue, Corp; Albany, 69 State St, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Hartford, 280 Trumbull, Corp; Pittsburgh, 1001 Liberty Ave, Corp; St. Louis, 4220 Duncan Avenue, Corp; Miami, 777 Brickell Ave, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; San Francisco, 415 Mission Street, Corp; Morristown, 1 Speedwell Ave, Corp; Denver, 999 18th St, Corp; Boston, 888 Boylston, Corp; Philadelphia, 2001 Market St, Corp; Des Moines, 909 Locust, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Charlotte, 1120 S Tryon St., Corp; Walnut Creek, 1255 Treat Blvd, Corp; Carmel, 11939 N Meridian St., Corp; Seattle, 1191 2nd Avenue, Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Orlando, 9400 Southpark, Corp; Redmond, 8383 158th Avenue NE, Corp; Bentonville, 805 S Walton Blvd., Corp; Beaverton, 15220 NW Greenbrier, Corp; Nashville, 4101 Charlotte Ave., Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp",
+   "posted": "2026-10-16",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Cyber Intelligence Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Cyber-Intelligence-Manager--Americas_R00354712",
+   "years": 3
+  },
+  "workday:accenture:r00354984": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00354984",
+   "location": "Madrid, Torre Chamartin",
+   "posted": "2026-09-07",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Cloud Security Consultant \u2013 AWS",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Torre-Chamartin/Cloud-Security-Consultant---AWS_R00354984",
+   "years": null
+  },
+  "workday:accenture:r00355694": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00355694",
+   "location": "Amsterdam",
+   "posted": "2026-10-28",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Junior Consultant Cyber Security (Dutch speaker)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Security-Transformation-Analyst_R00355694",
+   "years": null
+  },
+  "workday:accenture:r00356193": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00356193",
+   "location": "Sydney, International House, 3 Sussex St",
+   "posted": "2026-10-06",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Network Security Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/CyberCX---Network-Security-Engineer_R00356193",
+   "years": null
+  },
+  "workday:accenture:r00356853": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00356853",
+   "location": "Madrid, Torre Chamartin",
+   "posted": "2026-09-15",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Cybersecurity GRC & Strategy Analyst / Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Torre-Chamartin/Cybersecurity-GRC---Strategy-Analyst---Consultant_R00356853",
+   "years": null
+  },
+  "workday:accenture:r00356993": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00356993",
+   "location": "Paris",
+   "posted": "2026-09-17",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Responsable de comptes Cybers\u00e9curit\u00e9 - Secteur financier F/H",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Responsable-de-comptes-Cyberscurit---Secteur-financier-F-H_R00356993",
+   "years": null
+  },
+  "workday:accenture:r00357188": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00357188",
+   "location": "Ebene",
+   "posted": "2026-10-27",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Vulnerability and Patch Management Specialist",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Vulnerability-and-Patch-Management-Specialist_R00357188",
+   "years": null
+  },
+  "workday:accenture:r00357421": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00357421",
+   "location": "Lisbon, Santos 37",
+   "posted": "2026-09-16",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Telecom Infrastructure Security Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon-Santos-37/Telecom-Infrastructure-Security-Consultant_R00357421-1",
+   "years": 3
+  },
+  "workday:accenture:r00358982": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00358982",
+   "location": "Madrid, Torre Chamartin (Remote)",
+   "posted": "2026-09-22",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Consultor/a de Seguridad de Aplicaciones \u2014 Application Security (AppSec)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Torre-Chamartin/Consultor-a-de-Seguridad-de-Aplicaciones---Application-Security--AppSec-_R00358982-1",
+   "years": null
+  },
+  "workday:accenture:r00359183": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00359183",
+   "location": "Sydney, International House, 3 Sussex St; Canberra, 65 Canberra Avenue Bldg; Adelaide, 95 Grenfell Street; Melbourne, 161 Collins Street, Level 5; Brisbane, 100 Creek Street",
+   "posted": "2026-10-21",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "active clearance"
+   ],
+   "tier": "stretch",
+   "title": "CyberCX - Cyber Intelligence - Managing Analyst",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/CyberCX---Cyber-Intelligence---Managing-Analyst_R00359183",
+   "years": null
+  },
+  "workday:accenture:r00359223": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00359223",
+   "location": "Malaga, I+D6 - South Building",
+   "posted": "2026-09-23",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "MxDR SOC Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Malaga-ID6---South-Building/MxDR-SOC-Engineer_R00359223",
+   "years": 2
+  },
+  "workday:accenture:r00361278": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00361278",
+   "location": "Madrid, Castellana 85",
+   "posted": "2026-10-14",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "SAP Security Specialist",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Castellana-85/SAP-Security-Specialist_R00361278",
+   "years": null
+  },
+  "workday:accenture:r00361575": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00361575",
+   "location": "Malaga, I+D6 - South Building; Alicante, Palacio de la Fuente; Sevilla, Bluenet; Zaragoza, World Trade Center, West Tower",
+   "posted": "2026-10-02",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "SAP Security Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Malaga-ID6---South-Building/SAP-Security-Consultant_R00361575",
+   "years": null
+  },
+  "workday:accenture:r00361790": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00361790",
+   "location": "Buenos Aires; Cordoba (Remote)",
+   "posted": "2026-10-28",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Data Protection & Information Security Compliance Specialist",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Data-Protection---Information-Security-Compliance-Specialist_R00361790",
+   "years": null
+  },
+  "workday:accenture:r00361853": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00361853",
+   "location": "Stockholm",
+   "posted": "2026-10-08",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "SOC analytiker till Accenture Cybersecurity",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/Security-Managed-Services-Analyst-Cybersecurity-Sweden_R00361853",
+   "years": null
+  },
+  "workday:accenture:r00362596": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00362596",
+   "location": "Melbourne, 161 Collins Street, Level 5",
+   "posted": "2026-10-29",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Security Analyst",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Security-Analyst_R00362596-1",
+   "years": null
+  },
+  "workday:accenture:r00362608": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00362608",
+   "location": "Auckland; Wellington; Christchurch",
+   "posted": "2026-10-08",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Security Engineering Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Auckland/CyberCX---Security-Engineering-Consultant_R00362608",
+   "years": null
+  },
+  "workday:accenture:r00362971": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00362971",
+   "location": "Bogota, Carrera 7 (Remote)",
+   "posted": "2026-10-08",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Platform Security / Endpoint Security Specialist",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bogota-Carrera-7/Platform-Security---Endpoint-Security-Specialist_R00362971",
+   "years": null
+  },
+  "workday:accenture:r00363721": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00363721",
+   "location": "Ottawa, 150 Elgin St., Corp",
+   "posted": "2026-10-27",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "active clearance"
+   ],
+   "tier": "stretch",
+   "title": "SOC Specialist (L1/L2 - Secret Cleared)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/SOC-Specialist--L1-L2---Secret-Cleared-_R00363721-1",
+   "years": 2
+  },
+  "workday:accenture:r00364131": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00364131",
+   "location": "Philadelphia, 2001 Market St, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Cincinnati, 4th Street, Corp; New York, One Manhattan West, Corp; Cleveland, 1400 W 10th Street, Corp; Austin, 323 Congress Avenue, Corp; Albany, 69 State St, Corp; Chicago, Accenture Tower, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Hartford, 280 Trumbull, Corp; Pittsburgh, 1001 Liberty Ave, Corp; St. Louis, 4220 Duncan Avenue, Corp; Miami, 777 Brickell Ave, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; Morristown, 1 Speedwell Ave, Corp; San Francisco, 415 Mission Street, Corp; Boston, 888 Boylston, Corp; Denver, 999 18th St, Corp; Des Moines, 909 Locust, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Charlotte, 1120 S Tryon St., Corp; Carmel, 11939 N Meridian St., Corp; Seattle, 1191 2nd Avenue, Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Beaverton, 15220 NW Greenbrier, Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp",
+   "posted": "2026-10-13",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Application Security Modernization Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Philadelphia-2001-Market-St-Corp/Application-Security-Modernization-Consultant_R00364131",
+   "years": 3
+  },
+  "workday:accenture:r00364339": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00364339",
+   "location": "Paris",
+   "posted": "2026-10-21",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Consultant en Cybers\u00e9curit\u00e9 Sant\u00e9 & Services Publics en stage - F/H Paris",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-en-Cyberscurit-Sant---Services-Publics-en-stage---F-H-Paris_R00364339",
+   "years": null
+  },
+  "workday:accenture:r00364344": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00364344",
+   "location": "Paris",
+   "posted": "2026-10-28",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Consultant Cybers\u00e9curit\u00e9 industrielle (ICS/OT) en stage - F/H Paris",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-Cyberscurit-industrielle--ICS-OT--en-stage---F-H-Paris_R00364344",
+   "years": null
+  },
+  "workday:accenture:r00364893": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00364893",
+   "location": "Sofia; Plovdiv",
+   "posted": "2026-10-16",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Windows Security Operations Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sofia/Windows-Security-Operations-Engineer_R00364893-1",
+   "years": 3
+  },
+  "workday:accenture:r00364903": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00364903",
+   "location": "Sofia; Plovdiv",
+   "posted": "2026-10-16",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Linux Security Operations Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sofia/Linux-Security-Operations-Engineer_R00364903-1",
+   "years": 3
+  },
+  "workday:accenture:r00365136": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00365136",
+   "location": "Melbourne, 161 Collins Street, Level 5; Melbourne, 330 Collins Street",
+   "posted": "2026-10-20",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX -  Consultant - GRC",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/CyberCX----Consultant---GRC_R00365136",
+   "years": 2
+  },
+  "workday:accenture:r00365228": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00365228",
+   "location": "Madrid",
+   "posted": "2026-10-19",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberSecurity Analyst / Consultant 22301 - continuidad de negocio",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/CyberSecurity-Analyst---Consultant-22301---continuidad-de-negocio_R00365228",
+   "years": null
+  },
+  "workday:accenture:r00365500": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00365500",
+   "location": "Helsinki",
+   "posted": "2026-10-21",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Identity & Access Management Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Helsinki/Identity---Access-Management-Consultant_R00365500",
+   "years": null
+  },
+  "workday:accenture:r00365849": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00365849",
+   "location": "Prague",
+   "posted": "2026-10-21",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Cybersecurity FDE Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Cybersecurity-FDE-Consultant_R00365849",
+   "years": 1
+  },
+  "workday:accenture:r00366019": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00366019",
+   "location": "Brisbane, 10 Eagle Street",
+   "posted": "2026-10-28",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "CyberCX - Security Engineer (CloudCompute)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brisbane-10-Eagle-Street/CyberCX---Security-Engineer--CloudCompute-_R00366019",
+   "years": 3
+  },
+  "workday:accenture:r00366023": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00366023",
+   "location": "Brisbane, 10 Eagle Street",
+   "posted": "2026-10-28",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "CyberCX - Security Engineer (Networking)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brisbane-10-Eagle-Street/CyberCX---Security-Engineer--Networking-_R00366023",
+   "years": null
+  },
+  "workday:accenture:r00366530": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00366530",
+   "location": "Prague",
+   "posted": "2026-10-23",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Security Delivery Specialist \u2013 Continuous Threat Exposure Management_#CFC Prague",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Security-Delivery-Specialist---Continuous-Threat-Exposure-Management--CFC-Prague_R00366530",
+   "years": null
+  },
+  "workday:accenture:r00367542": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00367542",
+   "location": "Albany, 69 State St, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Kirkland, 416 6th Street South, Corp; Cincinnati, 4th Street, Corp; New York, One Manhattan West, Corp; Cleveland, 1400 W 10th Street, Corp; Oklahoma City, 525 NW 11th St, Corp; Austin, 323 Congress Avenue, Corp; Chicago, Accenture Tower, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Hartford, 280 Trumbull, Corp; Pittsburgh, 1001 Liberty Ave, Corp; St. Louis, 4220 Duncan Avenue, Corp; Miami, 777 Brickell Ave, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; San Francisco, 415 Mission Street, Corp; Morristown, 1 Speedwell Ave, Corp; Denver, 999 18th St, Corp; Boston, 888 Boylston, Corp; Philadelphia, 2001 Market St, Corp; Des Moines, 909 Locust, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Charlotte, 1120 S Tryon St., Corp; Walnut Creek, 1255 Treat Blvd, Corp; Carmel, 11939 N Meridian St., Corp; Seattle, 1191 2nd Avenue, Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Redmond, 8383 158th Avenue NE, Corp; Bentonville, 805 S Walton Blvd., Corp; Beaverton, 15220 NW Greenbrier, Corp; Nashville, 4101 Charlotte Ave., Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp",
+   "posted": "2026-10-29",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "Identity and Access Management Consultant",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Albany-69-State-St-Corp/Identity-and-Access-Management-Consultant_R00367542-1",
+   "years": 2
+  },
+  "workday:accenture:r00368214": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00368214",
+   "location": "Petaling Jaya, Plaza 33",
+   "posted": "2026-10-30",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Associate Security Engineer (CloudCompute)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Petaling-Jaya-Plaza-33/Associate-Security-Engineer--CloudCompute-_R00368214",
+   "years": 3
+  },
+  "workday:accenture:r00368714": {
+   "alerted": "baseline",
+   "company": "Accenture",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:accenture:r00368714",
+   "location": "Paris",
+   "posted": "2026-11-03",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Architecte Infrastructure IA \u2013 Cybers\u00e9curit\u00e9",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Architecte-Infrastructure-IA---Cyberscurit_R00368714",
+   "years": null
+  },
+  "workday:att:r-121905-1": {
+   "alerted": "baseline",
+   "company": "AT&T college",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:att:r-121905-1",
+   "location": "Dallas, Texas; Middletown, New Jersey; Bothell, Washington; Atlanta, Georgia (Remote)",
+   "posted": "2026-09-21",
+   "sources": [
+    "at-t-college-attcollege"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level"
+   ],
+   "tier": "fit",
+   "title": "AT&T Technology Development Program",
+   "url": "https://att.wd1.myworkdayjobs.com/en-US/attcollege/job/Dallas-Texas/AT-T-Technology-Development-Program_R-121905-1",
+   "years": null
+  },
+  "workday:att:r-125119": {
+   "alerted": "baseline",
+   "company": "AT&T",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:att:r-125119",
+   "location": "Hyderabad, India; Bengaluru, India (Remote)",
+   "posted": "2026-10-26",
+   "sources": [
+    "at-t-attgeneral"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Specialist Cybersecurity - IT Audit Management (PCI DSS audits, SOC and ISO 27001)/Risk assessments, information security compliance, or IT security operations.",
+   "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Hyderabad-India/Specialist-Cybersecurity--Audit-Management--PCI--SOC-and-ISO-27001-_R-125119",
+   "years": 2
+  },
+  "workday:bah:r0246545": {
+   "alerted": "baseline",
+   "company": "Booz Allen",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:bah:r0246545",
+   "location": "Augusta, GA",
+   "posted": "2026-08-24",
+   "sources": [
+    "booz-allen-bah-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "active clearance"
+   ],
+   "tier": "stretch",
+   "title": "Cyber Training Developer",
+   "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Augusta-GA/Cyber-Training-Developer_R0246545",
+   "years": 2
+  },
+  "workday:bah:r0248084": {
+   "alerted": "baseline",
+   "company": "Booz Allen",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:bah:r0248084",
+   "location": "Warner Robins, GA",
+   "posted": "2026-08-27",
+   "sources": [
+    "booz-allen-bah-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "active clearance"
+   ],
+   "tier": "stretch",
+   "title": "Information Systems Security Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Warner-Robins-GA/Information-Systems-Security-Engineer_R0248084",
+   "years": 3
+  },
+  "workday:bah:r0250928": {
+   "alerted": "baseline",
+   "company": "Booz Allen",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:bah:r0250928",
+   "location": "Napoli",
+   "posted": "2026-10-02",
+   "sources": [
+    "booz-allen-bah-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "active clearance"
+   ],
+   "tier": "stretch",
+   "title": "Personnel Security Specialist",
+   "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Napoli/Personnel-Security-Specialist_R0250928",
+   "years": 3
+  },
+  "workday:bah:r0252920": {
+   "alerted": "baseline",
+   "company": "Booz Allen",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:bah:r0252920",
+   "location": "Stuttgart, Baden-Wurttemberg",
+   "posted": "2026-11-03",
+   "sources": [
+    "booz-allen-bah-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "active clearance"
+   ],
+   "tier": "stretch",
+   "title": "Personnel Security Specialist",
+   "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Stuttgart-Baden-Wurttemberg/Personnel-Security-Specialist_R0252920",
+   "years": 2
+  },
+  "workday:cisco:2012314": {
+   "alerted": "baseline",
+   "company": "Cisco",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:cisco:2012314",
+   "location": "Zurich, Switzerland; Brussels, Belgium; Madrid, Spain; Bratislava, Slovakia; London, United Kingdom; Tel Aviv-Yafo, Israel; Athens, Greece; Stockholm, Sweden; Berlin, Germany; Bucharest, Romania; Oslo, Norway; Budapest, Hungary; Rome, Italy; Krakow, Poland; Dublin, Ireland; Oeiras, Portugal; Copenhagen, Denmark; Amsterdam, Netherlands; Paris, France (Remote)",
+   "posted": "2026-04-22",
+   "sources": [
+    "cisco-cisco-careers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Tetragon Threat Detection Engineer - Isovalent",
+   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Zurich-Switzerland/Tetragon-Threat-Detection-Engineer---Isovalent_2012314",
+   "years": 3
+  },
+  "workday:coke:r-147639": {
+   "alerted": "baseline",
+   "company": "The Coca-Cola Company",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:coke:r-147639",
+   "location": "US - GA - Atlanta",
+   "posted": "2026-10-15",
+   "sources": [
+    "the-coca-cola-company-coca-cola-careers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Cybersecurity Auditor \u2013 Identity & Access Management",
+   "url": "https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/US---GA---Atlanta/Cybersecurity-Auditor---Identity---Access-Management_R-147639",
+   "years": 3
+  },
+  "workday:cox:r202684184": {
+   "alerted": "baseline",
+   "company": "Cox Enterprises",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:cox:r202684184",
+   "location": "Atlanta GA",
+   "posted": "2026-10-28",
+   "sources": [
+    "cox-enterprises-cox-external-career-site-1"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Cybersecurity Engineer II",
+   "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Engineer-II_R202684184",
+   "years": 2
+  },
+  "workday:crowdstrike:r29328": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r29328",
+   "location": "USA - Remote",
+   "posted": "2026-09-30",
+   "sources": [
+    "crowdstrike-crowdstrikecareers",
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Engineer II, Software Assurance, Product Security (Remote)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328",
+   "years": null
+  },
+  "workday:crowdstrike:r29367": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r29367",
+   "location": "Ireland - Remote; United Kingdom - Remote; Romania - Remote",
+   "posted": "2026-08-12",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Threat Researcher II (Remote - IRE, UK or ROU)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Ireland---Remote/Threat-Researcher-II--Remote--IRE-_R29367",
+   "years": 4
+  },
+  "workday:crowdstrike:r29822": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r29822",
+   "location": "USA - Remote",
+   "posted": "2026-09-16",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Threat Hunter, FedCloud (Remote)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Threat-Hunter--FedCloud--Remote-_R29822",
+   "years": null
+  },
+  "workday:crowdstrike:r29947": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r29947",
+   "location": "USA - Wenatchee, WA",
+   "posted": "2026-10-30",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Threat Analyst \u2013 Machine Learning Operations & Detection Efficacy (Remote)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Wenatchee-WA/Threat-Analyst---Machine-Learning-Operations---Detection-Efficacy--Remote-_R29947-1",
+   "years": null
+  },
+  "workday:crowdstrike:r29983": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r29983",
+   "location": "Romania - Bucharest",
+   "posted": "2026-09-14",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Security Engineer - Cybersecurity IAM (Remote, ROU)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Romania---Bucharest/Security-Engineer---Cybersecurity-IAM--Hybrid--Bucharest-_R29983",
+   "years": null
+  },
+  "workday:crowdstrike:r29984": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r29984",
+   "location": "Romania - Bucharest",
+   "posted": "2026-09-14",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Security Engineer - Cybersecurity IAM (Remote,ROU)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Romania---Bucharest/Security-Engineer---Cybersecurity-IAM--Hybrid--Bucharest-_R29984",
+   "years": null
+  },
+  "workday:crowdstrike:r29985": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r29985",
+   "location": "Romania - Bucharest",
+   "posted": "2026-09-14",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Security Engineer - Cybersecurity IAM (Remote,ROU)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Romania---Bucharest/Security-Engineer---Cybersecurity-IAM--Hybrid--Bucharest-_R29985",
+   "years": null
+  },
+  "workday:crowdstrike:r30082": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r30082",
+   "location": "Remote (US)",
+   "posted": "2026-09-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Analyst I, Falcon Complete (Remote, PST/MST)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Associate-Analyst--Falcon-Complete_R30082",
+   "years": null
+  },
+  "workday:crowdstrike:r30532": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r30532",
+   "location": "United Kingdom - Remote",
+   "posted": "2026-11-02",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Incident Response Consultant (Remote, GBR)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Incident-Response-Consultant--Remote--GBR-_R30532",
+   "years": null
+  },
+  "workday:crowdstrike:r30535": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r30535",
+   "location": "USA - Remote",
+   "posted": "2026-11-03",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Incident Response Consultant (Remote)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Incident-Response-Consultant--Remote-_R30535",
+   "years": null
+  },
+  "workday:crowdstrike:r30545": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r30545",
+   "location": "USA - Remote",
+   "posted": "2026-10-23",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Incident Response Consultant (Remote)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Incident-Response-Consultant--Remote-_R30545",
+   "years": null
+  },
+  "workday:crowdstrike:r30634": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r30634",
+   "location": "USA - Remote",
+   "posted": "2026-11-02",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Detection Engineer, Falcon Complete (Remote)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Detection-Engineer--Falcon-Complete--Remote-_R30634",
+   "years": 3
+  },
+  "workday:crowdstrike:r30635": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r30635",
+   "location": "Canada - Remote BC; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote AB; Canada - Remote, MB",
+   "posted": "2026-11-02",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Detection Engineer, Falcon Complete (Remote, CAN)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Canada---Remote-BC/Detection-Engineer--Falcon-Complete--Remote-_R30635",
+   "years": 3
+  },
+  "workday:crowdstrike:r30643": {
+   "alerted": "baseline",
+   "company": "CrowdStrike",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:crowdstrike:r30643",
+   "location": "United Kingdom - Remote",
+   "posted": "2026-10-26",
+   "sources": [
+    "crowdstrike-crowdstrikecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Consultant, Cloud Incident Response (Remote)",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Consultant--Cloud-Incident-Response--Remote-_R30643",
+   "years": 2
+  },
+  "workday:elevancehealth:jr209189": {
+   "alerted": "baseline",
+   "company": "Elevance Health",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:elevancehealth:jr209189",
+   "location": "GA-ATLANTA, 740 W PEACHTREE ST NW",
+   "posted": "2026-10-09",
+   "sources": [
+    "elevance-health-ant"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Information Security Advisor",
+   "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Information-Security-Advisor_JR209189",
+   "years": 3
+  },
+  "workday:equifax:j00170962": {
+   "alerted": "baseline",
+   "company": "Equifax early careers",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:equifax:j00170962",
+   "location": "USA - Georgia - Alpharetta - 30005",
+   "posted": "2025-09-04",
+   "sources": [
+    "equifax-early-careers-ur-external"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level"
+   ],
+   "tier": "fit",
+   "title": "Rotational Technology Associate",
+   "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170962",
+   "years": 2
+  },
+  "workday:equifax:j00178503": {
+   "alerted": "baseline",
+   "company": "Equifax",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:equifax:j00178503",
+   "location": "USA-GA-Alpharetta-JVW3",
+   "posted": "2026-10-23",
+   "sources": [
+    "equifax-external"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "Offensive Cybersecurity Analyst - Red Team",
+   "url": "https://equifax.wd5.myworkdayjobs.com/en-US/external/job/USA-GA-Alpharetta-JVW3/Red-Team-Operator_J00178503",
+   "years": 1
+  },
+  "workday:fiserv:r-10403476": {
+   "alerted": "baseline",
+   "company": "Fiserv",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:fiserv:r-10403476",
+   "location": "Berkeley Heights, New Jersey; Wilmington, Delaware; Columbus, Ohio; Alpharetta, Georgia",
+   "posted": "2026-11-02",
+   "sources": [
+    "fiserv-ext"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Fraud Risk Analyst",
+   "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Berkeley-Heights-New-Jersey/Fraud-Risk-Analyst_R-10403476",
+   "years": 3
+  },
+  "workday:gdit:rq229892": {
+   "alerted": "baseline",
+   "company": "GDIT",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:gdit:rq229892",
+   "location": "Any Location / Remote",
+   "posted": "2026-11-02",
+   "sources": [
+    "gdit-external-career-site"
+   ],
+   "status": "open",
+   "tags": [
+    "remote",
+    "clearance eligible"
+   ],
+   "tier": "stretch",
+   "title": "Information Systems Security Engineer",
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/Any-Location--Remote/Information-Systems-Security-Engineer_RQ229892-1",
+   "years": 4
+  },
+  "workday:genpt:0000028932": {
+   "alerted": "baseline",
+   "company": "Genuine Parts Company",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:genpt:0000028932",
+   "location": "Birmingham, AL, USA; Atlanta, GA, USA",
+   "posted": "2026-10-26",
+   "sources": [
+    "genuine-parts-company-careers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "Cyber Defense Engineer Principle - Global Industrial",
+   "url": "https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Birmingham-AL-USA/Cyber-Defense-Engineer-Principle---Global-Industrial_R26_0000028932",
+   "years": null
+  },
+  "workday:guidehouse:41570": {
+   "alerted": "baseline",
+   "company": "Guidehouse",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:guidehouse:41570",
+   "location": "US - GA, Atlanta; US - Remote (Any location)",
+   "posted": "2026-11-03",
+   "sources": [
+    "guidehouse-external"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "Data Security Analyst",
+   "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---GA-Atlanta/Data-Security-Analyst_41570",
+   "years": 2
+  },
+  "workday:guidehouse:45309": {
+   "alerted": "baseline",
+   "company": "Guidehouse",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:guidehouse:45309",
+   "location": "US - Remote (Any location)",
+   "posted": "2026-11-02",
+   "sources": [
+    "guidehouse-external"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Cyber Forensic Analyst Journeyman",
+   "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---Remote-Any-location/Cyber-Forensic-Analyst-Journeyman_45309",
+   "years": 3
+  },
+  "workday:homedepot:req193044": {
+   "alerted": "baseline",
+   "company": "The Home Depot",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:homedepot:req193044",
+   "location": "GEORGIA - VIRTUAL - GA01 (Remote)",
+   "posted": "2026-09-11",
+   "sources": [
+    "hackedrico-2027-cyber-jobs",
+    "the-home-depot-careerdepot"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Cybersecurity Software Engineer II | ML & AI (Remote)",
+   "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Cybersecurity-Software-Engineer-II---ML---AI--Remote-_Req193044",
+   "years": 1
+  },
+  "workday:kbr:r2126761": {
+   "alerted": "baseline",
+   "company": "KBR",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:kbr:r2126761",
+   "location": "Houston, TX; Remote (US)",
+   "posted": "2026-07-22",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Associate Security Engineer, Identity Security",
+   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Associate-Security-Engineer--Identity-Security_R2126761",
+   "years": null
+  },
+  "workday:leidos:r-00194554-1": {
+   "alerted": "baseline",
+   "company": "Leidos",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:leidos:r-00194554-1",
+   "location": "Farnborough, Hampshire, UK",
+   "posted": "2026-11-03",
+   "sources": [
+    "leidos-external"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "clearance eligible"
+   ],
+   "tier": "fit",
+   "title": "Cyber Security Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Farnborough-Hampshire-UK/Cyber-Security-Engineer_R-00194554-1",
+   "years": null
+  },
+  "workday:leidos:r-00195093": {
+   "alerted": "baseline",
+   "company": "Leidos",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:leidos:r-00195093",
+   "location": "Farnborough, Hampshire, UK",
+   "posted": "2026-11-02",
+   "sources": [
+    "leidos-external"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Cyber Security Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Farnborough-Hampshire-UK/Cyber-Security-Engineer_R-00195093",
+   "years": null
+  },
+  "workday:leidos:r-00195642": {
+   "alerted": "baseline",
+   "company": "Leidos",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:leidos:r-00195642",
+   "location": "Farnborough, Hampshire, UK",
+   "posted": "2026-10-29",
+   "sources": [
+    "leidos-external"
+   ],
+   "status": "open",
+   "tags": [
+    "check location",
+    "clearance eligible"
+   ],
+   "tier": "fit",
+   "title": "Cyber Security Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Farnborough-Hampshire-UK/Cyber-Security-Engineer_R-00195642",
+   "years": null
+  },
+  "workday:mastercard:r-263968": {
+   "alerted": "baseline",
+   "company": "Mastercard",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:mastercard:r-263968",
+   "location": "Bogota, Colombia",
+   "posted": "2025-10-28",
+   "sources": [
+    "mastercard-corporatecareers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Information Security Operations Analyst",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Bogota-Colombia/Information-Security-Operations-Analyst_R-263968",
+   "years": null
+  },
+  "workday:mckesson:jr0148399": {
+   "alerted": "baseline",
+   "company": "McKesson",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:mckesson:jr0148399",
+   "location": "Cork",
+   "posted": "2026-10-20",
+   "sources": [
+    "mckesson-external-careers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Network Security (WAF) Engineer",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Cork/Network-Security--WAF--Engineer_JR0148399",
+   "years": 4
+  },
+  "workday:mckesson:jr0153127": {
+   "alerted": "baseline",
+   "company": "McKesson",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:mckesson:jr0153127",
+   "location": "Cork",
+   "posted": "2026-09-10",
+   "sources": [
+    "mckesson-external-careers"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Cybersecurity GRC Analyst, SAP Platform",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Cork/Cybersecurity-GRC-Analyst--SAP-Platform_JR0153127",
+   "years": 4
+  },
+  "workday:mckesson:jr0155418": {
+   "alerted": "baseline",
+   "company": "McKesson",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:mckesson:jr0155418",
+   "location": "Cork",
+   "posted": "2026-10-22",
+   "sources": [
+    "mckesson-external-careers"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "check location"
+   ],
+   "tier": "fit",
+   "title": "Graduate Cyber Security Analyst (Cyber Academy)",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Cork/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0155418",
+   "years": null
+  },
+  "workday:ncr:r0156645": {
+   "alerted": "baseline",
+   "company": "NCR Voyix",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:ncr:r0156645",
+   "location": "ATLANTA, GA, USA",
+   "posted": "2026-09-24",
+   "sources": [
+    "ncr-voyix-ext-us"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "Cyber Security AI Engineer, Security Operations Center",
+   "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Information-Security-Operations-Analyst_R0156645",
+   "years": 0
+  },
+  "workday:ncr:r0157118": {
+   "alerted": "baseline",
+   "company": "NCR Voyix",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:ncr:r0157118",
+   "location": "ATLANTA, GA, USA",
+   "posted": "2026-08-18",
+   "sources": [
+    "ncr-voyix-ext-us"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "Information Security Engineer - CyberArk",
+   "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Information-Security-Engineer_R0157118",
+   "years": 1
+  },
+  "workday:regions:r103725": {
+   "alerted": "baseline",
+   "company": "Regions Bank",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:regions:r103725",
+   "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL); Remote",
+   "posted": "2026-06-24",
+   "sources": [
+    "regions-bank-regions-careers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "AI Identity Security Engineer",
+   "url": "https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/AI-Identity-Security-Engineer_R103725-1",
+   "years": 4
+  },
+  "workday:regions:r103726": {
+   "alerted": "baseline",
+   "company": "Regions Bank",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:regions:r103726",
+   "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL); Remote",
+   "posted": "2026-06-24",
+   "sources": [
+    "regions-bank-regions-careers"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "AI Identity Security Engineer",
+   "url": "https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/AI-Identity-Security-Engineer_R103726",
+   "years": 4
+  },
+  "workday:regions:r107301": {
+   "alerted": "baseline",
+   "company": "Regions Bank",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:regions:r107301",
+   "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL); Charlotte, NC - Charlotte Uptown Branch; Nashville, TN - Nashville Operations Center; Atlanta, GA - Regions Plaza Office",
+   "posted": "2026-10-30",
+   "sources": [
+    "regions-bank-regions-careers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Cyber Security Engineer",
+   "url": "https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cyber-Security-Engineer_R107301",
+   "years": 4
+  },
+  "workday:sailpoint:r013786": {
+   "alerted": "baseline",
+   "company": "SailPoint",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:sailpoint:r013786",
+   "location": "Remote (US); United States",
+   "posted": "2026-09-09",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Associate Security Software Engineer",
+   "url": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-Texas-USA/Associate-Security-Software-Engineer_R013786",
+   "years": null
+  },
+  "workday:salesforce:jr362697": {
+   "alerted": "baseline",
+   "company": "Salesforce",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:salesforce:jr362697",
+   "location": "Israel - Tel Aviv",
+   "posted": "2026-10-18",
+   "sources": [
+    "salesforce-external-career-site"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Offensive Security Researcher",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Offensive-Security-Researcher_JR362697-1",
+   "years": 3
+  },
+  "workday:salesforce:jr363149": {
+   "alerted": "baseline",
+   "company": "Salesforce",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:salesforce:jr363149",
+   "location": "Israel - Tel Aviv",
+   "posted": "2026-10-08",
+   "sources": [
+    "salesforce-external-career-site"
+   ],
+   "status": "open",
+   "tags": [
+    "check location"
+   ],
+   "tier": "stretch",
+   "title": "Offensive Security- Red Team",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Offensive-Security--Red-Team_JR363149",
+   "years": 4
+  },
+  "workday:salesforce:jr364952": {
+   "alerted": "baseline",
+   "company": "Salesforce",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:salesforce:jr364952",
+   "location": "California - San Francisco; Montana - Remote; Washington - Remote; Virginia - Remote; Massachusetts - Boston; Washington - Seattle Metro - Remote",
+   "posted": "2026-11-02",
+   "sources": [
+    "salesforce-external-career-site"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Software Security Engineer - SMTS/LMTS/PMTS",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Security-Engineer---SMTS-LMTS-PMTS_JR364952",
+   "years": null
+  },
+  "workday:tsys:r0075514": {
+   "alerted": "baseline",
+   "company": "Global Payments",
+   "first_seen": "2026-11-03T22:36+00:00",
+   "key": "workday:tsys:r0075514",
+   "location": "CINCINNATI, OHIO; ATLANTA, GEORGIA; COLUMBUS, GEORGIA",
+   "posted": "2026-10-28",
+   "sources": [
+    "global-payments-tsys"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Network Security Engineer",
+   "url": "https://tsys.wd1.myworkdayjobs.com/en-US/tsys/job/CINCINNATI-OHIO/Network-Security-Engineer_R0075514",
+   "years": 3
+  }
+ },
+ "rejected": {
+  "oracle:ibqbjb:157450": "2026-11-03",
+  "oracle:ibqbjb:161437": "2026-11-03",
+  "url:job-boards.greenhouse.io/knowbe4/jobs/8700231002": "2026-11-03",
+  "url:microsoft.eightfold.ai/careers/job/1970393557001498": "2026-11-03",
+  "url:microsoft.eightfold.ai/careers/job/1970393557007527": "2026-11-03",
+  "workday:accenture:14578241": "2026-11-03",
+  "workday:accenture:14805033": "2026-11-03",
+  "workday:accenture:r00119332": "2026-11-03",
+  "workday:accenture:r00236000": "2026-11-03",
+  "workday:accenture:r00256779": "2026-11-03",
+  "workday:accenture:r00278412": "2026-11-03",
+  "workday:accenture:r00278424": "2026-11-03",
+  "workday:accenture:r00310188": "2026-11-03",
+  "workday:accenture:r00311068": "2026-11-03",
+  "workday:accenture:r00324582": "2026-11-03",
+  "workday:accenture:r00332038": "2026-11-03",
+  "workday:accenture:r00333606": "2026-11-03",
+  "workday:accenture:r00338126": "2026-11-03",
+  "workday:accenture:r00343479": "2026-11-03",
+  "workday:accenture:r00357425": "2026-11-03",
+  "workday:accenture:r00358867": "2026-11-03",
+  "workday:accenture:r00361044": "2026-11-03",
+  "workday:accenture:r00361261": "2026-11-03",
+  "workday:accenture:r00361309": "2026-11-03",
+  "workday:accenture:r00363649": "2026-11-03",
+  "workday:bah:r0238536": "2026-11-03",
+  "workday:bah:r0244778": "2026-11-03",
+  "workday:bah:r0247051": "2026-11-03",
+  "workday:bah:r0247343": "2026-11-03",
+  "workday:bah:r0247694": "2026-11-03",
+  "workday:bah:r0247697": "2026-11-03",
+  "workday:bah:r0247897": "2026-11-03",
+  "workday:bah:r0249720": "2026-11-03",
+  "workday:bah:r0249734": "2026-11-03",
+  "workday:bah:r0250187": "2026-11-03",
+  "workday:bah:r0250216": "2026-11-03",
+  "workday:bah:r0250235": "2026-11-03",
+  "workday:bah:r0250517": "2026-11-03",
+  "workday:bah:r0250570": "2026-11-03",
+  "workday:bah:r0250779": "2026-11-03",
+  "workday:bah:r0251204": "2026-11-03",
+  "workday:bah:r0251205": "2026-11-03",
+  "workday:bah:r0251206": "2026-11-03",
+  "workday:bah:r0251207": "2026-11-03",
+  "workday:bah:r0251285": "2026-11-03",
+  "workday:bah:r0251414": "2026-11-03",
+  "workday:bah:r0251688": "2026-11-03",
+  "workday:bah:r0251692": "2026-11-03",
+  "workday:bah:r0251871": "2026-11-03",
+  "workday:bah:r0251876": "2026-11-03",
+  "workday:bah:r0251884": "2026-11-03",
+  "workday:bah:r0251885": "2026-11-03",
+  "workday:bah:r0251891": "2026-11-03",
+  "workday:bah:r0251965": "2026-11-03",
+  "workday:bah:r0252151": "2026-11-03",
+  "workday:bah:r0252641": "2026-11-03",
+  "workday:bah:r0252749": "2026-11-03",
+  "workday:bah:r0252876": "2026-11-03",
+  "workday:ciena:r031817": "2026-11-03",
+  "workday:coke:r-147836": "2026-11-03",
+  "workday:elevancehealth:jr192885": "2026-11-03",
+  "workday:elevancehealth:jr203000": "2026-11-03",
+  "workday:elevancehealth:jr211547": "2026-11-03",
+  "workday:elevancehealth:jr211764": "2026-11-03",
+  "workday:equifax:j00179940": "2026-11-03",
+  "workday:fiserv:r-10395802-1": "2026-11-03",
+  "workday:fiserv:r-10395871": "2026-11-03",
+  "workday:fiserv:r-10398800": "2026-11-03",
+  "workday:fiserv:r-10398812-1": "2026-11-03",
+  "workday:gdit:rq222120": "2026-11-03",
+  "workday:gdit:rq224143": "2026-11-03",
+  "workday:gdit:rq225549": "2026-11-03",
+  "workday:gdit:rq227745": "2026-11-03",
+  "workday:gdit:rq228330": "2026-11-03",
+  "workday:gdit:rq228908": "2026-11-03",
+  "workday:gdit:rq229664": "2026-11-03",
+  "workday:genpt:0000028926": "2026-11-03",
+  "workday:genpt:0000028929": "2026-11-03",
+  "workday:ghr:25029922": "2026-11-03",
+  "workday:ghr:26021395": "2026-11-03",
+  "workday:ghr:26031550": "2026-11-03",
+  "workday:ghr:26032524": "2026-11-03",
+  "workday:ghr:26037894": "2026-11-03",
+  "workday:ghr:26038256": "2026-11-03",
+  "workday:ghr:26038579": "2026-11-03",
+  "workday:ghr:26040010": "2026-11-03",
+  "workday:guidehouse:42373": "2026-11-03",
+  "workday:guidehouse:42609": "2026-11-03",
+  "workday:guidehouse:43494": "2026-11-03",
+  "workday:guidehouse:43883": "2026-11-03",
+  "workday:guidehouse:44376": "2026-11-03",
+  "workday:guidehouse:44625": "2026-11-03",
+  "workday:guidehouse:44627": "2026-11-03",
+  "workday:guidehouse:45861": "2026-11-03",
+  "workday:hpe:1214814": "2026-11-03",
+  "workday:leidos:r-00191743": "2026-11-03",
+  "workday:leidos:r-00192802": "2026-11-03",
+  "workday:leidos:r-00194533": "2026-11-03",
+  "workday:leidos:r-00194537": "2026-11-03",
+  "workday:paloaltonetworks:jr-016576": "2026-11-03",
+  "workday:paloaltonetworks:jr-023260": "2026-11-03",
+  "workday:proofpoint:r14923": "2026-11-03",
+  "workday:rb:r-0000032397-1": "2026-11-03",
+  "workday:regions:r106696": "2026-11-03",
+  "workday:salesforce:jr332456": "2026-11-03",
+  "workday:salesforce:jr350054": "2026-11-03",
+  "workday:salesforce:jr355838": "2026-11-03",
+  "workday:salesforce:jr357070": "2026-11-03",
+  "workday:salesforce:jr358978": "2026-11-03",
+  "workday:salesforce:jr361737": "2026-11-03",
+  "workday:truist:r0119904": "2026-11-03",
+  "workday:truist:r0120558": "2026-11-03",
+  "workday:truist:r0120734": "2026-11-03",
+  "workday:truist:r0120822": "2026-11-03",
+  "workday:truist:r0120831": "2026-11-03",
+  "workday:truist:r0121490": "2026-11-03",
+  "workday:tsys:r0074710": "2026-11-03",
+  "workday:tsys:r0075135": "2026-11-03",
+  "workday:verizon:r-1099736-1": "2026-11-03",
+  "workday:verizon:r-1103180-1": "2026-11-03"
+ },
+ "sources": {
+  "accenture-accenturecareers": {
+   "company": "Accenture",
+   "count": 1271,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "american-express-cx-1": {
+   "company": "American Express",
+   "count": 130,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "at-t-attgeneral": {
+   "company": "AT&T",
+   "count": 315,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "at-t-college-attcollege": {
+   "company": "AT&T college",
+   "count": 8,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "avnet-external": {
+   "company": "Avnet",
+   "count": 26,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "bank-of-america-us-emplsv": {
+   "company": "Bank of America",
+   "count": 330,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "booz-allen-bah-jobs": {
+   "company": "Booz Allen",
+   "count": 991,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "carter-s-carterscareers": {
+   "company": "Carter's",
+   "count": 19,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "ciena-careers": {
+   "company": "Ciena",
+   "count": 21,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "cisco-cisco-careers": {
+   "company": "Cisco",
+   "count": 717,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "cox-enterprises-cox-external-career-site-1": {
+   "company": "Cox Enterprises",
+   "count": 34,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "crowdstrike-crowdstrikecareers": {
+   "company": "CrowdStrike",
+   "count": 373,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "delta-air-lines": {
+   "company": "Delta Air Lines",
+   "failures": 1,
+   "last_error": "Delta Air Lines: could not read any jobs from the Avature site (0 bytes, 0 job links)",
+   "seeded": false,
+   "warned": false
+  },
+  "elevance-health-ant": {
+   "company": "Elevance Health",
+   "count": 30,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "equifax-early-careers-ur-external": {
+   "company": "Equifax early careers",
+   "count": 15,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "equifax-external": {
+   "company": "Equifax",
+   "count": 71,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "federal-reserve-system-frs": {
+   "company": "Federal Reserve System",
+   "count": 85,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "fiserv-ext": {
+   "company": "Fiserv",
+   "count": 121,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "gdit-early-talent-gdit-earlytalent": {
+   "company": "GDIT early talent",
+   "count": 21,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "gdit-external-career-site": {
+   "company": "GDIT",
+   "count": 918,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "genuine-parts-company-careers": {
+   "company": "Genuine Parts Company",
+   "count": 284,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "global-payments-tsys": {
+   "company": "Global Payments",
+   "count": 109,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "guidehouse-external": {
+   "company": "Guidehouse",
+   "count": 584,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "hackedrico-2027-cyber-jobs": {
+   "company": "2027 cyber jobs list",
+   "count": 383,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "honeywell-honeywell": {
+   "company": "Honeywell",
+   "count": 380,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "invesco-early-careers-ivzearlycareers": {
+   "company": "Invesco early careers",
+   "count": 12,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "invesco-ivz": {
+   "company": "Invesco",
+   "count": 49,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "leidos-external": {
+   "company": "Leidos",
+   "count": 895,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "lexisnexis-risk-solutions-risksolutions": {
+   "company": "LexisNexis Risk Solutions",
+   "count": 206,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "mastercard-campus-campus": {
+   "company": "Mastercard campus",
+   "count": 35,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "mastercard-corporatecareers": {
+   "company": "Mastercard",
+   "count": 621,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "mckesson-external-careers": {
+   "company": "McKesson",
+   "count": 367,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "ncr-voyix-ext-us": {
+   "company": "NCR Voyix",
+   "count": 171,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "oracle-cx-45001": {
+   "company": "Oracle",
+   "count": 813,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "palo-alto-networks-panwexternalcareers": {
+   "company": "Palo Alto Networks",
+   "count": 661,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "pultegroup-pgi": {
+   "company": "PulteGroup",
+   "count": 2,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "pwc-entry-level-us-entry-level-careers": {
+   "company": "PwC entry level",
+   "count": 56,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "regions-bank-regions-careers": {
+   "company": "Regions Bank",
+   "count": 57,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "saic-cx": {
+   "company": "SAIC",
+   "count": 505,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "salesforce-external-career-site": {
+   "company": "Salesforce",
+   "count": 366,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "sharecare-sharecare-careers": {
+   "company": "Sharecare",
+   "count": 17,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "simplify-new-grad": {
+   "company": "Simplify new-grad list",
+   "count": 2959,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "southern-company-second-site-cx-1001": {
+   "company": "Southern Company (second site)",
+   "count": 36,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "southern-company-southerncompanyjobs": {
+   "company": "Southern Company",
+   "count": 36,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "t-mobile-external": {
+   "company": "T-Mobile",
+   "count": 333,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "the-coca-cola-company-coca-cola-careers": {
+   "company": "The Coca-Cola Company",
+   "count": 55,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "the-home-depot-careerdepot": {
+   "company": "The Home Depot",
+   "count": 269,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "truist-careers": {
+   "company": "Truist",
+   "count": 127,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "ups-search": {
+   "company": "UPS",
+   "count": 446,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "verizon-verizon-careers": {
+   "company": "Verizon",
+   "count": 73,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "visa-early-careers-visa-early-careers": {
+   "company": "Visa early careers",
+   "count": 59,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "visa-visa": {
+   "company": "Visa",
+   "count": 284,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  },
+  "wells-fargo-wellsfargojobs": {
+   "company": "Wells Fargo",
+   "count": 149,
+   "failures": 0,
+   "last_ok": "2026-11-03",
+   "seeded": true,
+   "warned": false
+  }
+ },
+ "version": 1
+}
