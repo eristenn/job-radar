@@ -189,7 +189,8 @@ class ConfigFile(unittest.TestCase):
         self.assertEqual(by_name["Southern Company"].site, "SouthernCompanyJobs")
         self.assertEqual(by_name["American Express"].type, "oracle")
         self.assertEqual(config.sources[-1].type, "simplify", "community lists run after employer sites")
-        self.assertEqual(by_name["Delta Air Lines"].type, "avature")
+        self.assertEqual(parse_source({"name": "Delta", "url": "https://delta.avature.net/en_US/careers"}).type, "avature")
+        self.assertIn("Delta Air Lines", [m["name"] for m in config.manual])
         self.assertEqual(by_name["Wells Fargo"].tenant, "wf")
         self.assertEqual(by_name["Wells Fargo"].prefix, "/recruiting/wf")
 

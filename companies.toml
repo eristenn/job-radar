@@ -12,11 +12,6 @@ name = "UPS"
 url = "https://hcmportal.wd5.myworkdayjobs.com/Search"
 
 [[company]]
-name = "Delta Air Lines"
-url = "https://delta.avature.net/en_US/careers"
-assume_location = "Atlanta, GA (confirm on posting)"
-
-[[company]]
 name = "The Coca-Cola Company"
 url = "https://coke.wd1.myworkdayjobs.com/coca-cola-careers"
 
@@ -241,6 +236,10 @@ strict_location = true
 
 # These sites use systems the tracker cannot read yet. The dashboard links to them for a manual check.
 # Their entry-level roles can still appear through the community lists.
+
+[[manual]]
+name = "Delta Air Lines"
+url = "https://delta.avature.net/en_US/careers"
 
 [[manual]]
 name = "Intercontinental Exchange"

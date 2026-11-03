@@ -70,5 +70,5 @@ python -m unittest discover -s tests
 ## Good to know
 
 - **Polite by design:** each site gets one request at a time with a pause in between, and job pages are only opened for new matches.
-- **Coverage limits:** sites listed under `[[manual]]` in `companies.toml` use systems the tracker can't read yet, so the dashboard links to them instead. Delta's location isn't confirmed by the tracker, so check it on each posting.
+- **Coverage limits:** sites listed under `[[manual]]` in `companies.toml` use systems the tracker can't read yet, so the dashboard links to them instead. That includes Delta, whose site returns a short page with no job links when the tracker requests it.
 - **Applied marks:** these are saved in your browser, so they don't sync between devices.
