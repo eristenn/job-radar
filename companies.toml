@@ -1,0 +1,275 @@
+# To add a company, paste its careers link. Workday, Oracle and Avature links work automatically.
+# Set all_jobs = true for small early-career portals, to read every posting without search terms.
+
+# Headquartered in metro Atlanta
+
+[[company]]
+name = "The Home Depot"
+url = "https://homedepot.wd5.myworkdayjobs.com/careerdepot"
+
+[[company]]
+name = "UPS"
+url = "https://hcmportal.wd5.myworkdayjobs.com/Search"
+
+[[company]]
+name = "Delta Air Lines"
+url = "https://delta.avature.net/en_US/careers"
+assume_location = "Atlanta, GA (confirm on posting)"
+
+[[company]]
+name = "The Coca-Cola Company"
+url = "https://coke.wd1.myworkdayjobs.com/coca-cola-careers"
+
+# Southern Company links use both site names, so watch both. Matching jobs merge into one.
+[[company]]
+name = "Southern Company"
+url = "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SouthernCompanyJobs"
+
+[[company]]
+name = "Southern Company (second site)"
+url = "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001"
+
+[[company]]
+name = "Genuine Parts Company"
+url = "https://genpt.wd1.myworkdayjobs.com/Careers"
+
+[[company]]
+name = "Equifax"
+url = "https://equifax.wd5.myworkdayjobs.com/external"
+
+[[company]]
+name = "Equifax early careers"
+url = "https://equifax.wd5.myworkdayjobs.com/UR_External"
+all_jobs = true
+
+[[company]]
+name = "Global Payments"
+url = "https://tsys.wd1.myworkdayjobs.com/tsys"
+
+[[company]]
+name = "NCR Voyix"
+url = "https://ncr.wd1.myworkdayjobs.com/ext_us"
+
+[[company]]
+name = "Cox Enterprises"
+url = "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1"
+
+[[company]]
+name = "Invesco"
+url = "https://invesco.wd1.myworkdayjobs.com/IVZ"
+
+[[company]]
+name = "Invesco early careers"
+url = "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers"
+all_jobs = true
+
+[[company]]
+name = "PulteGroup"
+url = "https://pultegroup.wd1.myworkdayjobs.com/PGI"
+
+[[company]]
+name = "Carter's"
+url = "https://carters.wd1.myworkdayjobs.com/CartersCareers"
+
+[[company]]
+name = "Sharecare"
+url = "https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers"
+
+# Large Atlanta-area offices
+
+[[company]]
+name = "Truist"
+url = "https://truist.wd1.myworkdayjobs.com/Careers"
+
+[[company]]
+name = "AT&T"
+url = "https://att.wd1.myworkdayjobs.com/ATTGeneral"
+
+[[company]]
+name = "AT&T college"
+url = "https://att.wd1.myworkdayjobs.com/attcollege"
+all_jobs = true
+
+[[company]]
+name = "Federal Reserve System"
+url = "https://rb.wd5.myworkdayjobs.com/FRS"
+
+[[company]]
+name = "Elevance Health"
+url = "https://elevancehealth.wd1.myworkdayjobs.com/ANT"
+
+[[company]]
+name = "Regions Bank"
+url = "https://regions.wd5.myworkdayjobs.com/regions_careers"
+
+[[company]]
+name = "Wells Fargo"
+url = "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs"
+
+[[company]]
+name = "Bank of America"
+url = "https://ghr.wd1.myworkdayjobs.com/us-emplsv"
+
+[[company]]
+name = "American Express"
+url = "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+
+[[company]]
+name = "Fiserv"
+url = "https://fiserv.wd5.myworkdayjobs.com/ext"
+
+[[company]]
+name = "Mastercard"
+url = "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
+
+[[company]]
+name = "Mastercard campus"
+url = "https://mastercard.wd1.myworkdayjobs.com/Campus"
+all_jobs = true
+
+[[company]]
+name = "Visa"
+url = "https://visa.wd5.myworkdayjobs.com/Visa"
+
+[[company]]
+name = "Visa early careers"
+url = "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers"
+all_jobs = true
+
+[[company]]
+name = "McKesson"
+url = "https://mckesson.wd3.myworkdayjobs.com/External_Careers"
+
+[[company]]
+name = "LexisNexis Risk Solutions"
+url = "https://relx.wd3.myworkdayjobs.com/RiskSolutions"
+
+[[company]]
+name = "Verizon"
+url = "https://verizon.wd12.myworkdayjobs.com/verizon-careers"
+
+[[company]]
+name = "T-Mobile"
+url = "https://tmobile.wd1.myworkdayjobs.com/External"
+
+[[company]]
+name = "Cisco"
+url = "https://cisco.wd5.myworkdayjobs.com/cisco_careers"
+
+[[company]]
+name = "Salesforce"
+url = "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+
+[[company]]
+name = "Honeywell"
+url = "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell"
+
+[[company]]
+name = "Oracle"
+url = "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001"
+
+[[company]]
+name = "Ciena"
+url = "https://ciena.wd5.myworkdayjobs.com/Careers"
+
+[[company]]
+name = "Avnet"
+url = "https://avnet.wd1.myworkdayjobs.com/external"
+
+# Consulting and government contractors
+
+[[company]]
+name = "PwC entry level"
+url = "https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers"
+all_jobs = true
+
+[[company]]
+name = "Accenture"
+url = "https://accenture.wd103.myworkdayjobs.com/AccentureCareers"
+
+[[company]]
+name = "Guidehouse"
+url = "https://guidehouse.wd1.myworkdayjobs.com/external"
+
+[[company]]
+name = "Booz Allen"
+url = "https://bah.wd1.myworkdayjobs.com/bah_jobs"
+
+[[company]]
+name = "GDIT"
+url = "https://gdit.wd5.myworkdayjobs.com/external_career_site"
+
+[[company]]
+name = "GDIT early talent"
+url = "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent"
+all_jobs = true
+
+[[company]]
+name = "Leidos"
+url = "https://leidos.wd5.myworkdayjobs.com/External"
+
+[[company]]
+name = "SAIC"
+url = "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX"
+
+# Security vendors. These mostly appear here when a role is remote or in Atlanta.
+
+[[company]]
+name = "CrowdStrike"
+url = "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
+
+[[company]]
+name = "Palo Alto Networks"
+url = "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers"
+
+# Community job lists. Keep these after the employer sites, so a job found on both
+# gets its details from the employer. They also act as a backup if a site blocks the tracker.
+
+[[company]]
+name = "2027 cyber jobs list"
+type = "cyberjobs"
+id = "hackedrico-2027-cyber-jobs"
+url = "https://raw.githubusercontent.com/HackedRico/2027-cyber-jobs/main/listings.json"
+strict_location = true
+
+[[company]]
+name = "Simplify new-grad list"
+type = "simplify"
+id = "simplify-new-grad"
+url = "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json"
+strict_location = true
+
+# These sites use systems the tracker cannot read yet. The dashboard links to them for a manual check.
+# Their entry-level roles can still appear through the community lists.
+
+[[manual]]
+name = "Intercontinental Exchange"
+url = "https://careers-ice.icims.com/jobs"
+
+[[manual]]
+name = "Chick-fil-A"
+url = "https://careers.chick-fil-a.com/jobs"
+
+[[manual]]
+name = "Norfolk Southern"
+url = "https://jobs.nscorp.com"
+
+[[manual]]
+name = "Microsoft"
+url = "https://apply.careers.microsoft.com"
+
+[[manual]]
+name = "Google"
+url = "https://www.google.com/about/careers/applications/jobs/results"
+
+[[manual]]
+name = "Deloitte"
+url = "https://apply.deloitte.com/en_US/careers"
+
+[[manual]]
+name = "Emory University"
+url = "https://staff-emory.icims.com/jobs"
+
+[[manual]]
+name = "Emory Healthcare"
+url = "https://non-clinical-emory.icims.com/jobs"

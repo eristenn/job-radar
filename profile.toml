@@ -1,0 +1,105 @@
+# What counts as a job for you. Each pattern is a case-insensitive regular expression.
+# Try a change with:  python -m radar check "Cybersecurity Analyst II" "Atlanta, GA"
+
+[search]
+# What the tracker types into each company's job search.
+terms = [
+  "cybersecurity",
+  "cyber security",
+  "information security",
+  "security analyst",
+  "security engineer",
+  "threat",
+  "incident response",
+  "fraud analyst",
+]
+max_pages_per_term = 15
+
+[roles]
+include = [
+  '\bcyber',
+  '\binfosec\b',
+  '\b(information|it|data|cloud|network|application|product|endpoint|identity) security\b',
+  '\bsecurity (analyst|engineer|operations|specialist|consultant|administrator|associate|researcher|automation|monitoring|intelligence)\b',
+  '\bsoc (analyst|engineer|operations|operator|specialist|tier)\b',
+  '\b(tier|level) ?[123] soc\b',
+  '\bsecurity operations\b',
+  '\bthreat\b',
+  '\bincident (response|responder|handler)\b',
+  '\bdetection (engineer|analyst)\b',
+  '\bdetection (and|&) response\b',
+  '\bsecurity software\b',
+  '\bdfir\b',
+  '\bdigital forensics?\b',
+  '\bmalware\b',
+  '\bvulnerability\b',
+  '\b(penetration test|pen test|red team|blue team)',
+  '\bidentity (and|&) access\b',
+  '\biam (analyst|engineer|associate)\b',
+  '\bfraud (analyst|investigat|detection|strategy|prevention|intelligence|risk|operations)',
+  '\brotational\b.*\b(technology|tech|it|cyber|security)\b',
+  '\b(technology|tech|it|cyber|security)\b.*\brotational\b',
+  '\b(technology|it|cyber|security) (development|leadership) program\b',
+]
+exclude = [
+  '\bsocial security\b',
+  '\bsecurity (officer|guard|technician|systems technician|supervisor)\b',
+  '\b(physical|corporate|aviation|airport|event|executive) security\b',
+  '\b(loss prevention|asset protection)\b',
+  '\b(sales|pre-?sales|account executive|account manager|attorney|counsel|paralegal|recruiter|marketing)\b',
+  '\b(solutions? engineer|customer success)\b',
+  '\b(asic|firmware|silicon|physical design|design verification|dft)\b',
+]
+too_senior = [
+  '\b(senior|sr\.?|snr|lead|leader|principal|manager|mgr|director|head|vp|vice president|chief|architect|fellow|distinguished|supervisor|expert|executive)\b',
+  '\bstaff (analyst|engineer|consultant|specialist|security|cyber\w*)\b',
+  '\b(iii|iv)\b',
+  '\b(analyst|engineer|specialist|consultant|associate)\s*[3-5]\b',
+  '\blevel\s*[3-5]\b',
+]
+stretch = [
+  '\bii\b',
+  '\b(analyst|engineer|specialist|consultant)\s*2\b',
+  '\bintermediate\b',
+  '\bmid[- ]level\b',
+]
+entry_level = [
+  '\b(associate|junior|jr\.?|entry|new grad|new college grad|graduate|early career|rotational|development program)\b',
+  '\b(analyst|engineer|specialist)\s*(i|1)\b',
+]
+internship = ['\b(intern|internship|co-?op|apprentice|apprenticeship|summer analyst)\b']
+include_internships = false
+
+# The 2027 cyber jobs list labels each role. Roles in these groups count as a target
+# even if the title alone doesn't say so, like "Analyst I, Falcon Complete".
+trusted_categories = [
+  "Security Engineering", "SOC & Detection", "Forensics & IR", "Threat Intelligence",
+  "Identity & IAM", "GRC & Risk", "AppSec & ProdSec", "Cloud & Infra Security", "Offensive Security",
+]
+
+# Based on the lowest experience figure in the job description.
+stretch_at_years = 3
+hide_at_years = 5
+
+[location]
+include_remote = true
+remote = ['\bremote\b', '\bwork from home\b', '\bwfh\b', '\btelework\b', '\bvirtual\b', '\bhome office\b', '\bnationwide\b']
+metro = [
+  "Atlanta", "Buckhead", "Midtown Atlanta", "Sandy Springs", "Dunwoody", "Alpharetta", "Roswell",
+  "Milton", "Johns Creek", "Marietta", "Smyrna", "Kennesaw", "Vinings", "Decatur", "Tucker",
+  "Norcross", "Peachtree Corners", "Duluth", "Suwanee", "Lawrenceville", "Brookhaven", "Doraville",
+  "Chamblee", "College Park", "East Point", "Hapeville", "Forest Park", "Union City", "Fayetteville, GA",
+  "Peachtree City", "Stone Mountain", "Conyers", "Woodstock, GA", "Canton, GA", "Cumming, GA", "Austell",
+]
+
+[alerts]
+# Choose from "fit" and "stretch".
+tiers = ["fit", "stretch"]
+
+[settings]
+# Worker count across companies. Each company's own requests stay one at a time.
+workers = 8
+# A job must be missing from this many clean checks before it is marked closed.
+close_after_missed_checks = 2
+# Send a warning after a source fails this many checks in a row.
+warn_after_failures = 6

@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --sky: #e8eff5;
+  --panel: #f7fafc;
+  --ink: #12263a;
+  --muted: #526879;
+  --line: #bfcfdb;
+  --fit: #0b6e62;
+  --fit-bg: #d3eee8;
+  --stretch: #8a5a0a;
+  --stretch-bg: #f7e6c4;
+  --accent: #1d4ed8;
+  --warn: #9d2235;
+  --warn-bg: #f9dfe3;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --sky: #0e1c2a;
+    --panel: #162839;
+    --ink: #e7f0f7;
+    --muted: #9db2c3;
+    --line: #2f4a60;
+    --fit: #73dcc9;
+    --fit-bg: #123c38;
+    --stretch: #f0c674;
+    --stretch-bg: #40321a;
+    --accent: #8fb4ff;
+    --warn: #ffb3bf;
+    --warn-bg: #43202a;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--sky);
+  color: var(--ink);
+  font: 17px/1.5 "Atkinson Hyperlegible", system-ui, sans-serif;
+}
+.wrap { max-width: 1080px; margin: 0 auto; padding: 40px 24px 72px; }
+h1, h2, .title { font-family: "Bricolage Grotesque", system-ui, sans-serif; }
+h1 { font-size: clamp(2.6rem, 8vw, 5.2rem); line-height: 1; letter-spacing: -0.03em; margin: 0; font-weight: 700; }
+.status { margin: 14px 0 0; color: var(--muted); max-width: 62ch; }
+.warning {
+  margin: 20px 0 0; padding: 12px 16px; border-left: 4px solid var(--warn);
+  background: var(--warn-bg); color: var(--ink); max-width: 72ch;
+}
+.controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 32px 0 8px; }
+input[type=search], select {
+  font: inherit; color: var(--ink); background: var(--panel);
+  border: 1px solid var(--line); border-radius: 6px; padding: 9px 12px; min-height: 44px;
+}
+input[type=search] { flex: 1 1 240px; min-width: 0; }
+select { flex: 0 1 240px; min-width: 0; max-width: 100%; }
+.tiers { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.tiers button {
+  font: inherit; color: var(--ink); background: var(--panel); border: 0; padding: 9px 14px;
+  min-height: 44px; cursor: pointer; border-right: 1px solid var(--line);
+}
+.tiers button:last-child { border-right: 0; }
+.tiers button[aria-pressed=true] { background: var(--ink); color: var(--panel); }
+.toggle { display: inline-flex; gap: 8px; align-items: center; min-height: 44px; cursor: pointer; }
+.toggle input { width: 18px; height: 18px; accent-color: var(--ink); }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+.drop { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 24px; border-top: 2px solid var(--ink); padding: 18px 0 30px; margin-top: 26px; }
+.drop h2 { margin: 0; font-size: 1.5rem; line-height: 1.15; font-weight: 700; position: sticky; top: 16px; align-self: start; }
+.drop h2 small { display: block; font: 400 0.9rem/1.4 "Atkinson Hyperlegible", system-ui, sans-serif; color: var(--muted); margin-top: 4px; }
+.job { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 20px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.job:first-child { padding-top: 2px; }
+.job:last-child { border-bottom: 0; }
+.title { font-size: 1.22rem; font-weight: 500; line-height: 1.25; color: var(--ink); text-decoration: none; overflow-wrap: anywhere; }
+.title:hover { text-decoration: underline; }
+.meta { color: var(--muted); margin-top: 3px; overflow-wrap: anywhere; }
+.meta strong { color: var(--ink); font-weight: 700; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.chip { font-size: 0.86rem; padding: 2px 8px; border-radius: 4px; border: 1px solid var(--line); color: var(--muted); }
+.chip.fit { background: var(--fit-bg); color: var(--fit); border-color: transparent; font-weight: 700; }
+.chip.stretch { background: var(--stretch-bg); color: var(--stretch); border-color: transparent; font-weight: 700; }
+.actions { display: flex; gap: 8px; align-items: flex-start; }
+.btn {
+  font: inherit; font-size: 0.95rem; padding: 7px 12px; min-height: 40px; border-radius: 6px; cursor: pointer;
+  border: 1px solid var(--line); background: transparent; color: var(--ink); text-decoration: none; white-space: nowrap;
+}
+.btn.apply { background: var(--ink); color: var(--panel); border-color: var(--ink); font-weight: 700; }
+.job.applied .title { text-decoration: line-through; color: var(--muted); }
+.empty { padding: 36px 0; border-top: 2px solid var(--ink); margin-top: 26px; color: var(--muted); }
+
+.lower { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-top: 44px; border-top: 2px solid var(--ink); padding-top: 18px; }
+.lower h2 { font-size: 1.3rem; margin: 0 0 6px; font-weight: 700; }
+.lower p { margin: 0 0 12px; color: var(--muted); }
+.lower ul { list-style: none; margin: 0; padding: 0; }
+.lower li { padding: 6px 0; border-bottom: 1px solid var(--line); overflow-wrap: anywhere; }
+.lower a { color: var(--accent); }
+.bad { color: var(--warn); }
+details summary { cursor: pointer; min-height: 32px; }
+
+@media (max-width: 720px) {
+  .wrap { padding: 28px 16px 56px; }
+  .drop { grid-template-columns: 1fr; gap: 10px; }
+  .drop h2 { position: static; }
+  .job { grid-template-columns: 1fr; }
+  .lower { grid-template-columns: 1fr; gap: 28px; }
+  select { flex: 1 1 100%; }
+}
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Job Radar</h1>
+    <p class="status" id="status"></p>
+    <div class="warning" id="warning" hidden></div>
+  </header>
+
+  <div class="controls" role="search">
+    <input type="search" id="q" placeholder="Search title or company" aria-label="Search title or company">
+    <div class="tiers" role="group" aria-label="Match level">
+      <button type="button" data-tier="all" aria-pressed="true">All</button>
+      <button type="button" data-tier="fit" aria-pressed="false">Good fit</button>
+      <button type="button" data-tier="stretch" aria-pressed="false">Stretch</button>
+    </div>
+    <select id="company" aria-label="Company"></select>
+    <label class="toggle"><input type="checkbox" id="hide"> Hide applied</label>
+  </div>
+
+  <main id="list"></main>
+
+  <section class="lower">
+    <div>
+      <h2>Check these by hand</h2>
+      <p>The tracker can't read these sites yet.</p>
+      <ul id="manual"></ul>
+    </div>
+    <div>
+      <h2>Sites being watched</h2>
+      <p id="healthline"></p>
+      <details><summary>Show every site</summary><ul id="health"></ul></details>
+    </div>
+  </section>
+</div>
+
+<script id="data" type="application/json">__RADAR_DATA__</script>
+<script>
+(function () {
+  var data = JSON.parse(document.getElementById("data").textContent);
+  var KEY = "job-radar-applied";
+  var applied = {};
+  try { applied = JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { applied = {}; }
+  var view = { q: "", tier: "all", company: "", hide: false };
+
+  function saveApplied() {
+    try { localStorage.setItem(KEY, JSON.stringify(applied)); } catch (e) { /* Marks last for this visit only. */ }
+  }
+  function el(tag, cls, text) {
+    var node = document.createElement(tag);
+    if (cls) node.className = cls;
+    if (text !== undefined) node.textContent = text;
+    return node;
+  }
+  function dayKey(date) { return date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate(); }
+  function dropLabel(iso) {
+    var d = new Date(iso), now = new Date();
+    var yesterday = new Date(now); yesterday.setDate(now.getDate() - 1);
+    var date = d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
+    if (dayKey(d) === dayKey(now)) return { head: "Today", sub: date };
+    if (dayKey(d) === dayKey(yesterday)) return { head: "Yesterday", sub: date };
+    return { head: date, sub: d.toLocaleDateString(undefined, { weekday: "long" }) };
+  }
+  function plural(n, word) { return n + " " + word + (n === 1 ? "" : "s"); }
+
+  function matches(job) {
+    if (view.tier !== "all" && job.tier !== view.tier) return false;
+    if (view.company && job.company !== view.company) return false;
+    if (view.hide && applied[job.key]) return false;
+    if (view.q) {
+      var hay = (job.title + " " + job.company + " " + job.location).toLowerCase();
+      if (hay.indexOf(view.q) < 0) return false;
+    }
+    return true;
+  }
+
+  function jobRow(job) {
+    var row = el("article", "job" + (applied[job.key] ? " applied" : ""));
+    var body = el("div");
+    var link = el("a", "title", job.title);
+    link.href = job.url; link.target = "_blank"; link.rel = "noopener noreferrer";
+    body.appendChild(link);
+    var meta = el("div", "meta");
+    meta.appendChild(el("strong", "", job.company));
+    meta.appendChild(document.createTextNode(", " + (job.location || "Location not listed")));
+    body.appendChild(meta);
+    var chips = el("div", "chips");
+    chips.appendChild(el("span", "chip " + job.tier, job.tier === "fit" ? "Good fit" : "Stretch"));
+    if (job.years !== null && job.years !== undefined) chips.appendChild(el("span", "chip", "Asks for " + job.years + "+ years"));
+    (job.tags || []).forEach(function (tag) { chips.appendChild(el("span", "chip", tag)); });
+    body.appendChild(chips);
+    row.appendChild(body);
+
+    var actions = el("div", "actions");
+    var apply = el("a", "btn apply", "Apply");
+    apply.href = job.url; apply.target = "_blank"; apply.rel = "noopener noreferrer";
+    apply.setAttribute("aria-label", "Apply: " + job.title + " at " + job.company);
+    actions.appendChild(apply);
+    var mark = el("button", "btn", applied[job.key] ? "Undo" : "Mark applied");
+    mark.type = "button";
+    mark.setAttribute("aria-label", (applied[job.key] ? "Undo applied: " : "Mark applied: ") + job.title);
+    mark.addEventListener("click", function () {
+      if (applied[job.key]) delete applied[job.key]; else applied[job.key] = true;
+      saveApplied(); render();
+    });
+    actions.appendChild(mark);
+    row.appendChild(actions);
+    return row;
+  }
+
+  function render() {
+    var list = document.getElementById("list");
+    list.textContent = "";
+    var shown = data.jobs.filter(matches);
+    if (!shown.length) {
+      var msg = data.jobs.length ? "No roles match these filters. Clear the search or choose All." : "No matching roles are open right now. New ones will appear here after the next check.";
+      list.appendChild(el("p", "empty", msg));
+      return;
+    }
+    var groups = [], current = null;
+    shown.forEach(function (job) {
+      var key = dayKey(new Date(job.first_seen));
+      if (!current || current.key !== key) { current = { key: key, iso: job.first_seen, jobs: [] }; groups.push(current); }
+      current.jobs.push(job);
+    });
+    groups.forEach(function (group) {
+      var section = el("section", "drop");
+      var label = dropLabel(group.iso);
+      var head = el("h2", "", label.head);
+      head.appendChild(el("small", "", label.sub + ", " + plural(group.jobs.length, "role")));
+      section.appendChild(head);
+      var rows = el("div");
+      group.jobs.forEach(function (job) { rows.appendChild(jobRow(job)); });
+      section.appendChild(rows);
+      list.appendChild(section);
+    });
+  }
+
+  var checked = new Date(data.checked);
+  document.getElementById("status").textContent =
+    plural(data.jobs.length, "open role") + " in Atlanta or remote. Last checked " +
+    checked.toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) + ".";
+
+  var failing = data.health.filter(function (h) { return !h.ok; });
+  if (failing.length) {
+    var warning = document.getElementById("warning");
+    warning.hidden = false;
+    warning.textContent = plural(failing.length, "site") + " couldn't be read on the last check, so new roles there could be missed. See Sites being watched below.";
+  }
+
+  var select = document.getElementById("company");
+  select.appendChild(new Option("All companies", ""));
+  Array.from(new Set(data.jobs.map(function (j) { return j.company; }))).sort().forEach(function (name) {
+    select.appendChild(new Option(name, name));
+  });
+  select.addEventListener("change", function () { view.company = select.value; render(); });
+  document.getElementById("q").addEventListener("input", function (e) { view.q = e.target.value.trim().toLowerCase(); render(); });
+  document.getElementById("hide").addEventListener("change", function (e) { view.hide = e.target.checked; render(); });
+  document.querySelectorAll(".tiers button").forEach(function (button) {
+    button.addEventListener("click", function () {
+      view.tier = button.dataset.tier;
+      document.querySelectorAll(".tiers button").forEach(function (b) { b.setAttribute("aria-pressed", b === button ? "true" : "false"); });
+      render();
+    });
+  });
+
+  var manual = document.getElementById("manual");
+  data.manual.forEach(function (m) {
+    var li = el("li"); var a = el("a", "", m.name);
+    a.href = m.url; a.target = "_blank"; a.rel = "noopener noreferrer";
+    li.appendChild(a); manual.appendChild(li);
+  });
+  document.getElementById("healthline").textContent =
+    (data.health.length - failing.length) + " of " + data.health.length + " sites read on the last check.";
+  var health = document.getElementById("health");
+  data.health.forEach(function (h) {
+    var li = el("li", h.ok ? "" : "bad", h.ok ? h.company + ": read " + (h.count || 0) + " postings" : h.company + ": " + h.error);
+    health.appendChild(li);
+  });
+  render();
+})();
+</script>
+</body>
+</html>
