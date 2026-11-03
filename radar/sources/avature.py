@@ -10,7 +10,7 @@ from .base import Source
 
 PAGE_SIZE = 50
 LINK = re.compile(
-    r'<a\b[^>]*href=["\']([^"\']*/careers/JobDetail/[^"\']+)["\'][^>]*>(.*?)</a>', re.I | re.S
+    r'<a\b[^>]*href=["\']([^"\']*/careers/JobDetail[/?][^"\']+)["\'][^>]*>(.*?)</a>', re.I | re.S
 )
 
 
@@ -22,7 +22,8 @@ class AvatureSource(Source):
         if not jobs:
             jobs = self._from_pages()
         if not jobs:
-            raise SourceError(f"{self.config.company}: could not read any jobs from the Avature site")
+            note = getattr(self, "last_page_note", "")
+            raise SourceError(f"{self.config.company}: could not read any jobs from the Avature site ({note})")
         return jobs
 
     def _root(self):
@@ -45,10 +46,12 @@ class AvatureSource(Source):
 
     def _from_pages(self):
         jobs = {}
+        self.last_page_note = ""
         for page in range(self.profile.max_pages * 4):
             url = f"{self._root()}/SearchJobs/?jobRecordsPerPage={PAGE_SIZE}&jobOffset={page * PAGE_SIZE}"
             text = self.http.get_text(url)
             before = len(jobs)
+            self.last_page_note = f"{len(text)} bytes, {text.count('JobDetail')} job links"
             for href, label in LINK.findall(text):
                 title = strip_html(label)
                 if not title or title.lower() in {"apply", "view job", "read more"}:

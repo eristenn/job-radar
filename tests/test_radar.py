@@ -149,6 +149,10 @@ class Keys(unittest.TestCase):
             canonical_key("https://delta.avature.net/en_US/careers/JobDetail/Security-Analyst/123"),
             "avature:delta.avature.net:123",
         )
+        self.assertEqual(
+            canonical_key("https://delta.avature.net/en_US/careers/JobDetail?jobId=32774"),
+            "avature:delta.avature.net:32774",
+        )
 
 
 class ConfigFile(unittest.TestCase):
@@ -239,7 +243,8 @@ class FakeSites(BaseHTTPRequestHandler):
         if path == "/en_US/careers/SearchJobs/":
             if "jobOffset=0" in parsed.query:
                 return self._send(200, ('<article><a class="link" href="/en_US/careers/JobDetail/SOC-Analyst/77">'
-                                        '<span>SOC Analyst</span></a></article>'), "text/html")
+                                        '<span>SOC Analyst</span></a></article>'
+                                        '<article><a href="/en_US/careers/JobDetail?jobId=88">Fraud Analyst</a></article>'), "text/html")
             return self._send(200, "<html></html>", "text/html")
         if path.startswith("/en_US/careers/JobDetail/"):
             return self._send(200, "<p>Requires 2 years of experience.</p>", "text/html")
@@ -412,6 +417,8 @@ class EndToEnd(unittest.TestCase):
         jobs = source.fetch()
         self.assertEqual(jobs[0].title, "SOC Analyst")
         self.assertTrue(jobs[0].url.startswith(self.base))
+        self.assertEqual(jobs[1].title, "Fraud Analyst")
+        self.assertTrue(jobs[1].url.endswith("jobId=88"))
 
     def test_feeds_merge_into_one_job(self):
         wd_url = f"https://acme.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta/Cybersecurity-Analyst-I_R11"

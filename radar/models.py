@@ -46,7 +46,8 @@ def canonical_key(url: str) -> str:
             return f"oracle:{host.split('.')[0]}:{match.group(1)}"
 
     if "/careers/jobdetail" in parsed.path.lower():
-        match = re.search(r"(\d+)/?$", parsed.path)
+        # Avature links end in the ID, or carry it as ?jobId=123 on sites like Delta's.
+        match = re.search(r"(?:^|&)jobId=(\d+)", parsed.query, re.I) or re.search(r"(\d+)/?$", parsed.path)
         if match:
             return f"avature:{host}:{match.group(1)}"
 
