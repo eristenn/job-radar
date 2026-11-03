@@ -15,14 +15,21 @@ STATE_NAMES = (
     "utah vermont virginia washington wisconsin wyoming"
 ).split() + ["new hampshire", "new jersey", "new mexico", "new york", "north carolina", "north dakota",
              "rhode island", "south carolina", "south dakota", "west virginia"]
-ELSEWHERE_PLACES = (
-    "india canada mexico brazil germany france spain italy poland ireland netherlands singapore japan china "
-    "australia philippines costa rica united kingdom england bengaluru bangalore hyderabad pune chennai "
-    "gurgaon gurugram london toronto dublin krakow nyc seattle chicago dallas houston austin boston denver"
-).split()
-ELSEWHERE_PLACES = [p for p in ELSEWHERE_PLACES if p not in {"costa", "rica", "united", "kingdom"}] + [
-    "costa rica", "united kingdom",
+US_CITIES = ["nyc", "new york city", "seattle", "chicago", "dallas", "houston", "austin", "boston", "denver", "san francisco"]
+FOREIGN_PLACES = [
+    "argentina", "australia", "austria", "belgium", "brazil", "bulgaria", "canada", "chile", "china", "colombia",
+    "costa rica", "czech republic", "denmark", "egypt", "england", "finland", "france", "germany", "greece",
+    "hong kong", "hungary", "india", "indonesia", "ireland", "israel", "italy", "japan", "jordan", "kuwait",
+    "luxembourg", "malaysia", "mexico", "netherlands", "new zealand", "nigeria", "norway", "oman", "pakistan",
+    "peru", "philippines", "poland", "portugal", "qatar", "romania", "saudi", "scotland", "singapore",
+    "south africa", "south korea", "spain", "sweden", "switzerland", "taiwan", "thailand", "turkey", "uae",
+    "ukraine", "united arab emirates", "united kingdom", "uk", "vietnam",
+    "bengaluru", "bangalore", "hyderabad", "pune", "chennai", "gurgaon", "gurugram", "mumbai", "london", "toronto",
+    "dublin", "cork", "krakow", "sydney", "melbourne", "riyadh", "jeddah", "dubai", "cairo", "tel aviv", "stuttgart",
+    "napoli", "bogota", "manila", "buenos aires", "cordoba", "merida", "san jose, costa rica", "kuala lumpur", "paris", "berlin", "munich", "madrid", "zurich", "brussels", "bucharest", "tokyo",
 ]
+FOREIGN_CODES = re.compile(r"\b(ROU|GBR|CAN|IRE|UK|AUS|DEU|FRA|IND|JPN|NZ|EMEA|APAC|LATAM)\b")
+US_HINT = re.compile(r"\b(USA?|U\.S\.A?\.?|United States)\b")
 WORD_YEARS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10}
 PREFERRED = re.compile(r"\b(prefer|preferred|nice to have|bonus|plus\b|desired|ideally)", re.I)
 YEARS = re.compile(
@@ -34,6 +41,11 @@ ACTIVE_CLEARANCE = re.compile(
     r"\b(active|current)\b[^.]{0,50}\b(clearance|secret|ts/sci)\b|\bts/sci\b|\btop secret\b", re.I
 )
 ANY_CLEARANCE = re.compile(r"\b(security clearance|clearance eligible|obtain[^.]{0,30}clearance)\b", re.I)
+
+
+def _is_foreign(text: str) -> bool:
+    low = text.lower()
+    return any(re.search(rf"\b{re.escape(place)}\b", low) for place in FOREIGN_PLACES)
 
 
 def strip_html(text: str) -> str:
@@ -121,21 +133,31 @@ class Profile:
         if re.search(r"\bhybrid\b", title, re.I):
             return "elsewhere"  # Hybrid somewhere outside the Atlanta area isn't really remote.
         if self.remote.search(text) or self.remote.search(title):
-            return "remote"
+            return "remote" if self._us_remote(title, text) else "elsewhere"
         if re.fullmatch(r"\s*\d+\s+locations?\s*|\s*multiple locations?\s*", text, re.I):
             return "multiple"
-        if self._looks_elsewhere(text):
+        if self._names_a_place_elsewhere(text):
             return "elsewhere"
         if description and self.metro.search(strip_html(description)):
             return "atlanta"
-        return "unknown"
+        # Only a blank or US-labelled location is unclear. Anything else, like "Riyadh", isn't Atlanta.
+        return "unknown" if not text.strip() or US_HINT.search(text) else "elsewhere"
 
     @staticmethod
-    def _looks_elsewhere(text: str) -> bool:
-        if re.search(r"\b(" + "|".join(STATES) + r")\b", text):
+    def _us_remote(title: str, text: str) -> bool:
+        if US_HINT.search(text) or re.search(r"\b(" + "|".join(STATES) + r")\b", text):
+            return True
+        return not (_is_foreign(text) or FOREIGN_CODES.search(title) or _is_foreign(title))
+
+    @staticmethod
+    def _names_a_place_elsewhere(text: str) -> bool:
+        # Georgia counts here because metro Atlanta towns already matched above.
+        if re.search(r"\b(" + "|".join(STATES) + r"|GA)\b", text):
             return True
         low = text.lower()
-        return any(re.search(rf"\b{re.escape(place)}\b", low) for place in STATE_NAMES + ELSEWHERE_PLACES)
+        if "georgia" in low or _is_foreign(text):
+            return True
+        return any(re.search(rf"\b{re.escape(place)}\b", low) for place in STATE_NAMES + US_CITIES)
 
     def classify(self, title, location, description="", strict_location=False, trusted_role=False) -> Decision:
         decision = self.title_decision(title, trusted_role)

@@ -51,9 +51,10 @@ exclude = [
   '\b(asic|firmware|silicon|physical design|design verification|dft)\b',
 ]
 too_senior = [
-  '\b(senior|sr\.?|snr|lead|leader|principal|manager|mgr|director|head|vp|vice president|chief|architect|fellow|distinguished|supervisor|expert|executive)\b',
+  '\b(senior|sr\.?|snr|lead|leader|principal|principle|manager|mgr|director|head|vp|vice president|chief|architect|fellow|distinguished|supervisor|expert|executive)\b',
   '\bstaff (analyst|engineer|consultant|specialist|security|cyber\w*)\b',
   '\b(iii|iv)\b',
+  '\b(smts|lmts|pmts)\b',
   '\b(analyst|engineer|specialist|consultant|associate)\s*[3-5]\b',
   '\blevel\s*[3-5]\b',
 ]

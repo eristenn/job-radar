@@ -32,6 +32,7 @@ def run_check(config, state, http, alerts, now=None, send=True) -> dict:
     profile = Profile(config.profile)
     settings = config.settings
     sources = [build_source(c, http, profile) for c in config.sources]
+    _apply_current_filters(state, profile, today)
 
     with ThreadPoolExecutor(max_workers=settings.get("workers", 8)) as pool:
         outcomes = list(pool.map(_fetch, sources))
@@ -73,6 +74,17 @@ def run_check(config, state, http, alerts, now=None, send=True) -> dict:
         _send_job_alerts(state, alerts, profile, now, summary)
         _send_health_notices(state, alerts, settings)
     return summary
+
+
+def _apply_current_filters(state, profile, today):
+    """Drop saved jobs that no longer pass, so filter changes also clean up old matches."""
+    for key, job in list(state["jobs"].items()):
+        if job.get("status") != "open":
+            continue
+        decision = profile.classify(job["title"], job["location"], trusted_role=job.get("trusted", True))
+        if not decision.keep:
+            del state["jobs"][key]
+            state["rejected"][key] = today
 
 
 def _fetch(source):
@@ -126,6 +138,7 @@ def _ingest(job, source, state, profile, health, now, today, summary):
         "tags": decision.tags,
         "years": decision.years,
         "status": "open",
+        "trusted": trusted,
         "sources": [source.config.id],
         # The first read of any source only sets a baseline, so it never floods you.
         "alerted": None if health["seeded"] else "baseline",

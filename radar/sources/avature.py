@@ -9,6 +9,10 @@ from ..models import Job, SourceError, canonical_key
 from .base import Source
 
 PAGE_SIZE = 50
+PAGE_HEADERS = {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "User-Agent": "Mozilla/5.0 (compatible; job-radar/1.0; personal job alert tool)",
+}
 LINK = re.compile(
     r'<a\b[^>]*href=["\']([^"\']*/careers/JobDetail[/?][^"\']+)["\'][^>]*>(.*?)</a>', re.I | re.S
 )
@@ -31,7 +35,7 @@ class AvatureSource(Source):
 
     def _from_feed(self):
         try:
-            raw = self.http.get_text(f"{self._root()}/SearchJobs/feed/?jobRecordsPerPage=1000")
+            raw = self.http.get_text(f"{self._root()}/SearchJobs/feed/?jobRecordsPerPage=1000", headers=PAGE_HEADERS)
             root = ET.fromstring(raw)
         except (SourceError, ET.ParseError):
             return []
@@ -49,7 +53,7 @@ class AvatureSource(Source):
         self.last_page_note = ""
         for page in range(self.profile.max_pages * 4):
             url = f"{self._root()}/SearchJobs/?jobRecordsPerPage={PAGE_SIZE}&jobOffset={page * PAGE_SIZE}"
-            text = self.http.get_text(url)
+            text = self.http.get_text(url, headers=PAGE_HEADERS)
             before = len(jobs)
             self.last_page_note = f"{len(text)} bytes, {text.count('JobDetail')} job links"
             for href, label in LINK.findall(text):
@@ -80,5 +84,5 @@ class AvatureSource(Source):
         )
 
     def enrich(self, job):
-        job.description = strip_html(self.http.get_text(job.url))
+        job.description = strip_html(self.http.get_text(job.url, headers=PAGE_HEADERS))
         self.wait()

@@ -60,6 +60,7 @@ class TitleFilter(unittest.TestCase):
             "Software Engineer",
             "Cyber Security Internship",
             "Chief Cybersecurity Risk Officer",
+            "Cyber Defense Engineer Principle - Global Industrial",
             "SoC Design Verification Engineer",
             "SoC Firmware Engineer",
         ]:
@@ -79,6 +80,25 @@ class LocationFilter(unittest.TestCase):
     def place(self, location, title="Security Analyst", description=""):
         return PROFILE.location_class(title, location, description)
 
+    def test_international_listings_seen_in_real_data(self):
+        for where in ["Riyadh", "Kuwait City", "Cork", "Napoli", "Israel - Tel Aviv", "Bogota, Colombia",
+                      "Sydney, International House, 3 Sussex St", "Farnborough, Hampshire, UK", "Romania - Bucharest",
+                      "Jeddah, Al Murjanah Tower", "Stuttgart, Baden-Wurttemberg"]:
+            self.assertEqual(self.place(where), "elsewhere", where)
+
+    def test_remote_must_be_in_the_us(self):
+        self.assertEqual(self.place("United Kingdom - Remote"), "elsewhere")
+        self.assertEqual(self.place("Hyderabad, India; Bengaluru, India (Remote)"), "elsewhere")
+        self.assertEqual(self.place("Canada - Remote BC"), "elsewhere")
+        self.assertEqual(self.place("Romania - Bucharest", title="Security Engineer (Remote, ROU)"), "elsewhere")
+        self.assertEqual(self.place("Merida, City 32 (Remote)"), "elsewhere")
+        self.assertEqual(self.place("Buenos Aires; Cordoba (Remote)"), "elsewhere")
+        self.assertEqual(self.place("USA - Remote"), "remote")
+        self.assertEqual(self.place("Remote Work, TN, United States"), "remote")
+        self.assertEqual(self.place("GEORGIA - VIRTUAL - GA01"), "remote")
+        self.assertEqual(self.place("Remote (US)"), "remote")
+        self.assertEqual(self.place("Any Location / Remote"), "remote")
+
     def test_formats(self):
         self.assertEqual(self.place("Atlanta, GA"), "atlanta")
         self.assertEqual(self.place("USA - Georgia - Alpharetta - 30005"), "atlanta")
@@ -88,7 +108,10 @@ class LocationFilter(unittest.TestCase):
         self.assertEqual(self.place("3 Locations"), "multiple")
         self.assertEqual(self.place("Dallas, TX"), "elsewhere")
         self.assertEqual(self.place("IN---TDC-1-IN110"), "elsewhere")
-        self.assertEqual(self.place("Savannah, Georgia"), "unknown")
+        self.assertEqual(self.place("Savannah, Georgia"), "elsewhere")
+        self.assertEqual(self.place("Augusta, GA"), "elsewhere")
+        self.assertEqual(self.place("US - Air Group Building"), "unknown")
+        self.assertEqual(self.place(""), "unknown")
         self.assertEqual(self.place("Bengaluru"), "elsewhere")
         self.assertEqual(self.place("Building 7", description="<p>Based in Atlanta.</p>"), "atlanta")
         self.assertEqual(self.place("Remote (US); St. Louis, MO", title="Analyst I (Hybrid, St. Louis)"), "elsewhere")
@@ -446,6 +469,19 @@ class EndToEnd(unittest.TestCase):
         self.run_once(config)
         titles = [j["title"] for j in self.state["jobs"].values()]
         self.assertEqual(titles, ["Analyst I, Falcon Complete"])
+
+    def test_filter_changes_clean_up_saved_jobs(self):
+        config = self.config(self.workday())
+        FakeSites.state["workday_jobs"] = []
+        self.run_once(config)
+        self.state["jobs"]["old"] = {
+            "key": "old", "title": "SOC Analyst", "location": "Riyadh", "status": "open", "sources": ["acme-careers"],
+            "company": "A", "url": "https://a.example/1", "tier": "fit", "tags": [], "years": None,
+            "first_seen": "2026-11-01T00:00+00:00", "alerted": "baseline",
+        }
+        self.run_once(config, 30)
+        self.assertNotIn("old", self.state["jobs"])
+        self.assertIn("old", self.state["rejected"])
 
     def test_partial_search_never_closes_jobs(self):
         data = dict(PROFILE_DATA)
