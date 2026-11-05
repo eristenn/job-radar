@@ -3,7 +3,7 @@ name: Job Radar
 on:
   schedule:
     # Every 30 minutes, away from the top of the hour when GitHub runs get delayed.
-    - cron: "7,37 * * * *"
+    - cron: "12,42 * * * *"
   workflow_dispatch:
     inputs:
       mode:
