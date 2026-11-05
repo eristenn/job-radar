@@ -24,9 +24,9 @@ Job Radar watches employer career sites directly, filters out roles you can't re
 
 ## Why it exists
 
-Community job lists are a great start, but they're broad, and few focus on one city. Job Radar goes to the source and answers one question: **what can I apply to right now?**
+Community job lists are a great start, but you still have to sift through them for your city and level. Job Radar goes to the source and answers one question: **what can I apply to right now?**
 
-| | |
+| Feature | What it does |
 | --- | --- |
 | 🎯 **Filters for you** | Hides senior roles, internships, roles outside your area, and postings that ask for too much experience. |
 | 🔔 **Alerts on new roles only** | The first read of a site records what's already open, so you won't get flooded. |
