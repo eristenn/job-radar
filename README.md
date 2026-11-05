@@ -10,6 +10,7 @@ Job Radar watches employer career sites directly, filters out roles you can't re
 ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-0B6E62)
 ![Runs on GitHub Actions](https://img.shields.io/badge/runs%20on-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+[![MIT license](https://img.shields.io/badge/license-MIT-526879)](LICENSE)
 
 **[Open the live dashboard](https://eristenn.github.io/job-radar/)** | [Set up your own](#set-up-your-own) | [Change what it watches](#change-what-it-watches)
 
@@ -154,3 +155,9 @@ python -m unittest discover -s tests
 ## Credits
 
 Thanks to [HackedRico/2027-cyber-jobs](https://github.com/HackedRico/2027-cyber-jobs) and [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions), whose lists reach employers this tracker doesn't read directly and act as a backup if a site blocks it.
+
+## License
+
+This project's code is under the [MIT license](LICENSE). That doesn't cover the job listings it reads, which come from employer career sites and the community lists above.
+
+The tracker reads those lists when it runs, and this repo saves only the roles that match its filters. [HackedRico/2027-cyber-jobs](https://github.com/HackedRico/2027-cyber-jobs) is under its own MIT license, Copyright (c) 2026 HackedRico. I couldn't find a license file in [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions), so MIT doesn't grant any rights to its contents.
