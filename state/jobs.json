@@ -1239,8 +1239,7 @@
   "carter-s-carterscareers": {
    "company": "Carter's",
    "count": 19,
-   "failures": 1,
-   "last_error": "https://carters.wd1.myworkdayjobs.com/wday/cxs/carters/CartersCareers/jobs did not return JSON",
+   "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
@@ -1255,7 +1254,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 690,
+   "count": 691,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1264,8 +1263,7 @@
   "cox-enterprises-cox-external-career-site-1": {
    "company": "Cox Enterprises",
    "count": 34,
-   "failures": 1,
-   "last_error": "https://cox.wd1.myworkdayjobs.com/wday/cxs/cox/Cox_External_Career_Site_1/jobs did not return JSON",
+   "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
@@ -1311,7 +1309,7 @@
   },
   "federal-reserve-system-frs": {
    "company": "Federal Reserve System",
-   "count": 92,
+   "count": 91,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1344,8 +1342,7 @@
   "genuine-parts-company-careers": {
    "company": "Genuine Parts Company",
    "count": 296,
-   "failures": 1,
-   "last_error": "https://genpt.wd1.myworkdayjobs.com/wday/cxs/genpt/Careers/jobs did not return JSON",
+   "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
@@ -1360,7 +1357,7 @@
   },
   "guidehouse-external": {
    "company": "Guidehouse",
-   "count": 620,
+   "count": 619,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1393,15 +1390,14 @@
   "invesco-ivz": {
    "company": "Invesco",
    "count": 51,
-   "failures": 1,
-   "last_error": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs did not return JSON",
+   "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 884,
+   "count": 885,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1433,7 +1429,7 @@
   },
   "mckesson-external-careers": {
    "company": "McKesson",
-   "count": 372,
+   "count": 373,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1442,8 +1438,7 @@
   "ncr-voyix-ext-us": {
    "company": "NCR Voyix",
    "count": 169,
-   "failures": 1,
-   "last_error": "https://ncr.wd1.myworkdayjobs.com/wday/cxs/ncr/ext_us/jobs did not return JSON",
+   "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
@@ -1498,7 +1493,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 361,
+   "count": 362,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1514,7 +1509,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3139,
+   "count": 3130,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1546,9 +1541,8 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 66,
-   "failures": 1,
-   "last_error": "https://coke.wd1.myworkdayjobs.com/wday/cxs/coke/coca-cola-careers/jobs did not return JSON",
+   "count": 62,
+   "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
@@ -1571,7 +1565,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 464,
+   "count": 465,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1603,9 +1597,8 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 169,
-   "failures": 1,
-   "last_error": "https://wd1.myworkdaysite.com/wday/cxs/wf/WellsFargoJobs/jobs did not return JSON",
+   "count": 164,
+   "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
