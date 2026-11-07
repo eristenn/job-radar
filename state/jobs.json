@@ -1182,7 +1182,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1247,
+   "count": 1248,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1413,7 +1413,7 @@
   },
   "mastercard-campus-campus": {
    "company": "Mastercard campus",
-   "count": 27,
+   "count": 24,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1421,7 +1421,7 @@
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 615,
+   "count": 614,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1445,7 +1445,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 809,
+   "count": 808,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1509,7 +1509,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3128,
+   "count": 3126,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1565,7 +1565,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 466,
+   "count": 468,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
