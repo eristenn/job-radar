@@ -1182,7 +1182,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1251,
+   "count": 1247,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1190,7 +1190,7 @@
   },
   "american-express-cx-1": {
    "company": "American Express",
-   "count": 122,
+   "count": 120,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1254,7 +1254,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 691,
+   "count": 690,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1365,7 +1365,7 @@
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 369,
+   "count": 368,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1421,7 +1421,7 @@
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 616,
+   "count": 615,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1445,7 +1445,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 810,
+   "count": 809,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1453,7 +1453,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 675,
+   "count": 676,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1493,7 +1493,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 362,
+   "count": 361,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1509,7 +1509,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3130,
+   "count": 3128,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1541,7 +1541,7 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 62,
+   "count": 61,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1565,7 +1565,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 465,
+   "count": 466,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1573,7 +1573,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 79,
+   "count": 80,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
@@ -1597,7 +1597,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 164,
+   "count": 160,
    "failures": 0,
    "last_ok": "2026-11-07",
    "seeded": true,
