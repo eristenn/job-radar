@@ -758,16 +758,16 @@
   },
   "workday:ncr:r0156645": {
    "alerted": "baseline",
+   "closed_on": "2026-11-07",
    "company": "NCR Voyix",
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "workday:ncr:r0156645",
    "location": "ATLANTA, GA, USA",
-   "missed": 1,
    "posted": "2026-09-24",
    "sources": [
     "ncr-voyix-ext-us"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [],
    "tier": "fit",
    "title": "Cyber Security AI Engineer, Security Operations Center",
@@ -868,18 +868,39 @@
    "url": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-Texas-USA/Associate-Security-Software-Engineer_R013786",
    "years": null
   },
+  "workday:salesforce:jr367671": {
+   "alerted": "2026-11-07T01:55+00:00",
+   "company": "Salesforce",
+   "first_seen": "2026-11-07T01:55+00:00",
+   "key": "workday:salesforce:jr367671",
+   "location": "Washington - Seattle; Illinois - Chicago; Washington - Seattle Metro - Remote; Washington - Bellevue",
+   "posted": "2026-11-06",
+   "sources": [
+    "salesforce-external-career-site"
+   ],
+   "status": "open",
+   "tags": [
+    "entry level",
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Associate Security Consultant- PSSA, Early Talent",
+   "trusted": false,
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Associate-Security-Consultant--PSSA--Early-Talent_JR367671",
+   "years": 0
+  },
   "workday:tsys:r0075514": {
    "alerted": "baseline",
+   "closed_on": "2026-11-07",
    "company": "Global Payments",
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "workday:tsys:r0075514",
    "location": "CINCINNATI, OHIO; ATLANTA, GEORGIA; COLUMBUS, GEORGIA",
-   "missed": 1,
    "posted": "2026-10-28",
    "sources": [
     "global-payments-tsys"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [],
    "tier": "stretch",
    "title": "Network Security Engineer",
@@ -1097,6 +1118,7 @@
   "workday:guidehouse:44625": "2026-11-03",
   "workday:guidehouse:44627": "2026-11-03",
   "workday:guidehouse:45861": "2026-11-03",
+  "workday:guidehouse:46437": "2026-11-07",
   "workday:hpe:1214814": "2026-11-03",
   "workday:leidos:r-00191743": "2026-11-03",
   "workday:leidos:r-00192802": "2026-11-03",
@@ -1139,17 +1161,17 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1258,
+   "count": 1253,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "american-express-cx-1": {
    "company": "American Express",
-   "count": 131,
+   "count": 134,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1157,7 +1179,7 @@
    "company": "AT&T",
    "count": 318,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1165,7 +1187,7 @@
    "company": "AT&T college",
    "count": 8,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1173,23 +1195,23 @@
    "company": "Avnet",
    "count": 25,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "bank-of-america-us-emplsv": {
    "company": "Bank of America",
-   "count": 330,
+   "count": 329,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 994,
+   "count": 999,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1197,7 +1219,7 @@
    "company": "Carter's",
    "count": 19,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1205,31 +1227,31 @@
    "company": "Ciena",
    "count": 23,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 688,
+   "count": 691,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "cox-enterprises-cox-external-career-site-1": {
    "company": "Cox Enterprises",
-   "count": 33,
+   "count": 34,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "crowdstrike-crowdstrikecareers": {
    "company": "CrowdStrike",
-   "count": 371,
+   "count": 369,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1244,7 +1266,7 @@
    "company": "Elevance Health",
    "count": 30,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1252,7 +1274,7 @@
    "company": "Equifax early careers",
    "count": 14,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1260,7 +1282,7 @@
    "company": "Equifax",
    "count": 72,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1268,15 +1290,15 @@
    "company": "Federal Reserve System",
    "count": 93,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "fiserv-ext": {
    "company": "Fiserv",
-   "count": 122,
+   "count": 123,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1284,23 +1306,23 @@
    "company": "GDIT early talent",
    "count": 21,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "gdit-external-career-site": {
    "company": "GDIT",
-   "count": 928,
+   "count": 927,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "genuine-parts-company-careers": {
    "company": "Genuine Parts Company",
-   "count": 297,
+   "count": 296,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1308,7 +1330,7 @@
    "company": "Global Payments",
    "count": 115,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1316,7 +1338,7 @@
    "company": "Guidehouse",
    "count": 620,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1324,15 +1346,15 @@
    "company": "2027 cyber jobs list",
    "count": 371,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 374,
+   "count": 375,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1340,7 +1362,7 @@
    "company": "Invesco early careers",
    "count": 15,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1348,15 +1370,15 @@
    "company": "Invesco",
    "count": 51,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 885,
+   "count": 884,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1364,7 +1386,7 @@
    "company": "LexisNexis Risk Solutions",
    "count": 209,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1372,7 +1394,7 @@
    "company": "Mastercard campus",
    "count": 27,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1380,7 +1402,7 @@
    "company": "Mastercard",
    "count": 616,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1388,7 +1410,7 @@
    "company": "McKesson",
    "count": 373,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1396,23 +1418,23 @@
    "company": "NCR Voyix",
    "count": 169,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 812,
+   "count": 811,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 672,
+   "count": 675,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1420,7 +1442,7 @@
    "company": "PulteGroup",
    "count": 3,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1428,31 +1450,31 @@
    "company": "PwC entry level",
    "count": 50,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "regions-bank-regions-careers": {
    "company": "Regions Bank",
-   "count": 58,
+   "count": 57,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "saic-cx": {
    "company": "SAIC",
-   "count": 493,
+   "count": 494,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 361,
+   "count": 362,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1460,15 +1482,15 @@
    "company": "Sharecare",
    "count": 17,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3102,
+   "count": 3148,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1476,7 +1498,7 @@
    "company": "Southern Company (second site)",
    "count": 42,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1484,23 +1506,23 @@
    "company": "Southern Company",
    "count": 42,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "t-mobile-external": {
    "company": "T-Mobile",
-   "count": 334,
+   "count": 335,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 65,
+   "count": 66,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1508,7 +1530,7 @@
    "company": "The Home Depot",
    "count": 269,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1516,15 +1538,15 @@
    "company": "Truist",
    "count": 143,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "ups-search": {
    "company": "UPS",
-   "count": 481,
+   "count": 485,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1532,7 +1554,7 @@
    "company": "Verizon",
    "count": 80,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
@@ -1540,23 +1562,23 @@
    "company": "Visa early careers",
    "count": 44,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "visa-visa": {
    "company": "Visa",
-   "count": 274,
+   "count": 275,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 170,
+   "count": 169,
    "failures": 0,
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "seeded": true,
    "warned": false
   }
