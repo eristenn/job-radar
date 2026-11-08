@@ -1036,6 +1036,7 @@
   "workday:accenture:r00362971": "2026-11-03",
   "workday:accenture:r00363649": "2026-11-03",
   "workday:accenture:r00363721": "2026-11-03",
+  "workday:accenture:r00364333": "2026-11-08",
   "workday:accenture:r00364339": "2026-11-03",
   "workday:accenture:r00364344": "2026-11-03",
   "workday:accenture:r00364893": "2026-11-03",
@@ -1182,7 +1183,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1251,
+   "count": 1256,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1190,7 +1191,7 @@
   },
   "american-express-cx-1": {
    "company": "American Express",
-   "count": 119,
+   "count": 118,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1230,7 +1231,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 998,
+   "count": 996,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1254,7 +1255,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 690,
+   "count": 692,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1317,7 +1318,7 @@
   },
   "fiserv-ext": {
    "company": "Fiserv",
-   "count": 123,
+   "count": 121,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1333,7 +1334,7 @@
   },
   "gdit-external-career-site": {
    "company": "GDIT",
-   "count": 935,
+   "count": 938,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1365,7 +1366,7 @@
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 368,
+   "count": 355,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1373,7 +1374,7 @@
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 375,
+   "count": 374,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1429,7 +1430,7 @@
   },
   "mckesson-external-careers": {
    "company": "McKesson",
-   "count": 373,
+   "count": 371,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1445,7 +1446,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 808,
+   "count": 807,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1453,7 +1454,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 676,
+   "count": 675,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1509,7 +1510,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3129,
+   "count": 3128,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1565,7 +1566,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 468,
+   "count": 463,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1573,7 +1574,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 80,
+   "count": 77,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1589,7 +1590,7 @@
   },
   "visa-visa": {
    "company": "Visa",
-   "count": 275,
+   "count": 274,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1597,7 +1598,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 160,
+   "count": 153,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
