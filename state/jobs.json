@@ -1334,7 +1334,7 @@
   },
   "gdit-external-career-site": {
    "company": "GDIT",
-   "count": 938,
+   "count": 937,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1358,7 +1358,7 @@
   },
   "guidehouse-external": {
    "company": "Guidehouse",
-   "count": 619,
+   "count": 618,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1398,7 +1398,7 @@
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 890,
+   "count": 892,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1414,7 +1414,7 @@
   },
   "mastercard-campus-campus": {
    "company": "Mastercard campus",
-   "count": 24,
+   "count": 23,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1422,7 +1422,7 @@
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 614,
+   "count": 612,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1446,7 +1446,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 803,
+   "count": 804,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1454,7 +1454,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 676,
+   "count": 674,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1486,7 +1486,7 @@
   },
   "saic-cx": {
    "company": "SAIC",
-   "count": 494,
+   "count": 495,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1494,7 +1494,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 361,
+   "count": 360,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1510,7 +1510,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3122,
+   "count": 3120,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1566,7 +1566,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 463,
+   "count": 464,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1590,7 +1590,7 @@
   },
   "visa-visa": {
    "company": "Visa",
-   "count": 274,
+   "count": 273,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1598,7 +1598,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 153,
+   "count": 147,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
