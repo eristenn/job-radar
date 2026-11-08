@@ -1183,7 +1183,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1256,
+   "count": 1259,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1199,7 +1199,7 @@
   },
   "at-t-attgeneral": {
    "company": "AT&T",
-   "count": 318,
+   "count": 310,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1231,7 +1231,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 996,
+   "count": 997,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1366,7 +1366,7 @@
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 355,
+   "count": 353,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1398,7 +1398,7 @@
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 885,
+   "count": 890,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1446,7 +1446,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 807,
+   "count": 803,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1454,7 +1454,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 675,
+   "count": 676,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1510,7 +1510,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3128,
+   "count": 3122,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1574,7 +1574,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 77,
+   "count": 74,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
@@ -1582,7 +1582,7 @@
   },
   "visa-early-careers-visa-early-careers": {
    "company": "Visa early careers",
-   "count": 44,
+   "count": 42,
    "failures": 0,
    "last_ok": "2026-11-08",
    "seeded": true,
