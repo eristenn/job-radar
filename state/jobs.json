@@ -1224,6 +1224,7 @@
   "workday:accenture:r00364333": "2026-11-08",
   "workday:accenture:r00364339": "2026-11-03",
   "workday:accenture:r00364344": "2026-11-03",
+  "workday:accenture:r00364627": "2026-11-12",
   "workday:accenture:r00364893": "2026-11-03",
   "workday:accenture:r00364903": "2026-11-03",
   "workday:accenture:r00365136": "2026-11-03",
@@ -1425,7 +1426,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 991,
+   "count": 988,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1449,7 +1450,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 704,
+   "count": 699,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1465,7 +1466,7 @@
   },
   "crowdstrike-crowdstrikecareers": {
    "company": "CrowdStrike",
-   "count": 362,
+   "count": 364,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1480,7 +1481,7 @@
   },
   "elevance-health-ant": {
    "company": "Elevance Health",
-   "count": 24,
+   "count": 23,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1496,7 +1497,7 @@
   },
   "equifax-external": {
    "company": "Equifax",
-   "count": 54,
+   "count": 55,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1504,7 +1505,7 @@
   },
   "federal-reserve-system-frs": {
    "company": "Federal Reserve System",
-   "count": 92,
+   "count": 91,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1512,7 +1513,7 @@
   },
   "fiserv-ext": {
    "company": "Fiserv",
-   "count": 123,
+   "count": 122,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1528,7 +1529,7 @@
   },
   "gdit-external-career-site": {
    "company": "GDIT",
-   "count": 907,
+   "count": 906,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1544,7 +1545,7 @@
   },
   "global-payments-tsys": {
    "company": "Global Payments",
-   "count": 122,
+   "count": 123,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1552,7 +1553,7 @@
   },
   "guidehouse-external": {
    "company": "Guidehouse",
-   "count": 623,
+   "count": 626,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1560,7 +1561,7 @@
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 367,
+   "count": 354,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1568,7 +1569,7 @@
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 366,
+   "count": 368,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1592,7 +1593,7 @@
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 895,
+   "count": 896,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1600,7 +1601,7 @@
   },
   "lexisnexis-risk-solutions-risksolutions": {
    "company": "LexisNexis Risk Solutions",
-   "count": 206,
+   "count": 207,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1616,7 +1617,7 @@
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 603,
+   "count": 602,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1624,7 +1625,7 @@
   },
   "mckesson-external-careers": {
    "company": "McKesson",
-   "count": 366,
+   "count": 361,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1640,7 +1641,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 797,
+   "count": 801,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1648,7 +1649,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 674,
+   "count": 676,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1672,7 +1673,7 @@
   },
   "regions-bank-regions-careers": {
    "company": "Regions Bank",
-   "count": 63,
+   "count": 58,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1680,7 +1681,7 @@
   },
   "saic-cx": {
    "company": "SAIC",
-   "count": 512,
+   "count": 510,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1688,7 +1689,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 355,
+   "count": 354,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1704,7 +1705,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3148,
+   "count": 3150,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1712,7 +1713,7 @@
   },
   "southern-company-second-site-cx-1001": {
    "company": "Southern Company (second site)",
-   "count": 32,
+   "count": 30,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1720,7 +1721,7 @@
   },
   "southern-company-southerncompanyjobs": {
    "company": "Southern Company",
-   "count": 32,
+   "count": 30,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1728,7 +1729,7 @@
   },
   "t-mobile-external": {
    "company": "T-Mobile",
-   "count": 312,
+   "count": 310,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1736,7 +1737,7 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 66,
+   "count": 67,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1744,7 +1745,7 @@
   },
   "the-home-depot-careerdepot": {
    "company": "The Home Depot",
-   "count": 266,
+   "count": 265,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1760,7 +1761,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 466,
+   "count": 462,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1768,7 +1769,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 85,
+   "count": 86,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1784,7 +1785,7 @@
   },
   "visa-visa": {
    "company": "Visa",
-   "count": 280,
+   "count": 278,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
@@ -1792,7 +1793,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 137,
+   "count": 132,
    "failures": 0,
    "last_ok": "2026-11-12",
    "seeded": true,
