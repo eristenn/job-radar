@@ -1587,7 +1587,7 @@
   },
   "at-t-attgeneral": {
    "company": "AT&T",
-   "count": 333,
+   "count": 334,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1643,7 +1643,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 683,
+   "count": 682,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1867,7 +1867,7 @@
   "regions-bank-regions-careers": {
    "company": "Regions Bank",
    "count": 61,
-   "failures": 4,
+   "failures": 5,
    "last_error": "https://regions.wd5.myworkdayjobs.com/wday/cxs/regions/regions_careers/jobs did not return JSON",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1899,7 +1899,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3147,
+   "count": 3133,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1931,7 +1931,7 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 61,
+   "count": 59,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1987,7 +1987,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 121,
+   "count": 122,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
