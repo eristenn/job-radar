@@ -1063,6 +1063,7 @@
    "location": "IL-Rosemont; GA-Atlanta; IL-Chicago; DC-Washington; TX-Dallas; CA-Los Angeles; MN-Minneapolis; MA-Boston; NY-New York; CA-San Francisco; CA-Silicon Valley; PA-Philadelphia; WA-Seattle; TX-Houston",
    "posted": "2026-11-13",
    "sources": [
+    "hackedrico-2027-cyber-jobs",
     "pwc-entry-level-us-entry-level-careers"
    ],
    "status": "open",
@@ -1488,7 +1489,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1226,
+   "count": 1219,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1496,7 +1497,7 @@
   },
   "american-express-cx-1": {
    "company": "American Express",
-   "count": 101,
+   "count": 99,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1505,7 +1506,8 @@
   "at-t-attgeneral": {
    "company": "AT&T",
    "count": 337,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1513,7 +1515,8 @@
   "at-t-college-attcollege": {
    "company": "AT&T college",
    "count": 7,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://att.wd1.myworkdayjobs.com/wday/cxs/att/attcollege/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1521,7 +1524,8 @@
   "avnet-external": {
    "company": "Avnet",
    "count": 26,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://avnet.wd1.myworkdayjobs.com/wday/cxs/avnet/external/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1529,7 +1533,8 @@
   "bank-of-america-us-emplsv": {
    "company": "Bank of America",
    "count": 329,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/us-emplsv/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1537,7 +1542,8 @@
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
    "count": 974,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://bah.wd1.myworkdayjobs.com/wday/cxs/bah/bah_jobs/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1545,7 +1551,8 @@
   "carter-s-carterscareers": {
    "company": "Carter's",
    "count": 18,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://carters.wd1.myworkdayjobs.com/wday/cxs/carters/CartersCareers/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1553,7 +1560,7 @@
   "ciena-careers": {
    "company": "Ciena",
    "count": 23,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/Careers/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1562,7 +1569,7 @@
   "cisco-cisco-careers": {
    "company": "Cisco",
    "count": 684,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/cisco_careers/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1571,7 +1578,8 @@
   "cox-enterprises-cox-external-career-site-1": {
    "company": "Cox Enterprises",
    "count": 40,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://cox.wd1.myworkdayjobs.com/wday/cxs/cox/Cox_External_Career_Site_1/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1579,7 +1587,7 @@
   "crowdstrike-crowdstrikecareers": {
    "company": "CrowdStrike",
    "count": 362,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1595,7 +1603,8 @@
   "elevance-health-ant": {
    "company": "Elevance Health",
    "count": 25,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/ANT/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1603,7 +1612,7 @@
   "equifax-early-careers-ur-external": {
    "company": "Equifax early careers",
    "count": 21,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/UR_External/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1612,7 +1621,7 @@
   "equifax-external": {
    "company": "Equifax",
    "count": 54,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/external/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1621,7 +1630,7 @@
   "federal-reserve-system-frs": {
    "company": "Federal Reserve System",
    "count": 94,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://rb.wd5.myworkdayjobs.com/wday/cxs/rb/FRS/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1630,7 +1639,7 @@
   "fiserv-ext": {
    "company": "Fiserv",
    "count": 130,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://fiserv.wd5.myworkdayjobs.com/wday/cxs/fiserv/ext/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1639,7 +1648,7 @@
   "gdit-early-talent-gdit-earlytalent": {
    "company": "GDIT early talent",
    "count": 21,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://gdit.wd5.myworkdayjobs.com/wday/cxs/gdit/gdit_earlytalent/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1648,7 +1657,7 @@
   "gdit-external-career-site": {
    "company": "GDIT",
    "count": 898,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://gdit.wd5.myworkdayjobs.com/wday/cxs/gdit/external_career_site/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1657,7 +1666,8 @@
   "genuine-parts-company-careers": {
    "company": "Genuine Parts Company",
    "count": 306,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://genpt.wd1.myworkdayjobs.com/wday/cxs/genpt/Careers/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1665,7 +1675,8 @@
   "global-payments-tsys": {
    "company": "Global Payments",
    "count": 129,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/tsys/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1673,14 +1684,15 @@
   "guidehouse-external": {
    "company": "Guidehouse",
    "count": 625,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/external/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 361,
+   "count": 359,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1688,7 +1700,7 @@
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 372,
+   "count": 371,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1697,7 +1709,8 @@
   "invesco-early-careers-ivzearlycareers": {
    "company": "Invesco early careers",
    "count": 12,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZearlycareers/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1705,7 +1718,8 @@
   "invesco-ivz": {
    "company": "Invesco",
    "count": 49,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1713,7 +1727,7 @@
   "leidos-external": {
    "company": "Leidos",
    "count": 904,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1721,7 +1735,7 @@
   },
   "lexisnexis-risk-solutions-risksolutions": {
    "company": "LexisNexis Risk Solutions",
-   "count": 204,
+   "count": 198,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1730,7 +1744,8 @@
   "mastercard-campus-campus": {
    "company": "Mastercard campus",
    "count": 23,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/Campus/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1738,7 +1753,8 @@
   "mastercard-corporatecareers": {
    "company": "Mastercard",
    "count": 588,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1754,7 +1770,8 @@
   "ncr-voyix-ext-us": {
    "company": "NCR Voyix",
    "count": 176,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://ncr.wd1.myworkdayjobs.com/wday/cxs/ncr/ext_us/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1770,7 +1787,7 @@
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
    "count": 667,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltonetworks/panwexternalcareers/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1779,7 +1796,8 @@
   "pultegroup-pgi": {
    "company": "PulteGroup",
    "count": 3,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://pultegroup.wd1.myworkdayjobs.com/wday/cxs/pultegroup/PGI/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1795,7 +1813,7 @@
   "regions-bank-regions-careers": {
    "company": "Regions Bank",
    "count": 61,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://regions.wd5.myworkdayjobs.com/wday/cxs/regions/regions_careers/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1803,7 +1821,7 @@
   },
   "saic-cx": {
    "company": "SAIC",
-   "count": 500,
+   "count": 499,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1811,7 +1829,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 365,
+   "count": 366,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1820,14 +1838,15 @@
   "sharecare-sharecare-careers": {
    "company": "Sharecare",
    "count": 19,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://sharecare.wd1.myworkdayjobs.com/wday/cxs/sharecare/Sharecare_Careers/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3135,
+   "count": 3112,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1835,7 +1854,7 @@
   },
   "southern-company-second-site-cx-1001": {
    "company": "Southern Company (second site)",
-   "count": 30,
+   "count": 31,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1843,7 +1862,7 @@
   },
   "southern-company-southerncompanyjobs": {
    "company": "Southern Company",
-   "count": 30,
+   "count": 31,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1852,7 +1871,8 @@
   "t-mobile-external": {
    "company": "T-Mobile",
    "count": 318,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1860,7 +1880,8 @@
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
    "count": 66,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://coke.wd1.myworkdayjobs.com/wday/cxs/coke/coca-cola-careers/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1868,7 +1889,7 @@
   "the-home-depot-careerdepot": {
    "company": "The Home Depot",
    "count": 267,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://homedepot.wd5.myworkdayjobs.com/wday/cxs/homedepot/careerdepot/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1877,7 +1898,8 @@
   "truist-careers": {
    "company": "Truist",
    "count": 154,
-   "failures": 0,
+   "failures": 1,
+   "last_error": "POST https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/Careers/jobs failed: HTTP 521",
    "last_ok": "2026-11-14",
    "seeded": true,
    "warned": false
@@ -1885,7 +1907,7 @@
   "ups-search": {
    "company": "UPS",
    "count": 463,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://hcmportal.wd5.myworkdayjobs.com/wday/cxs/hcmportal/Search/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1893,7 +1915,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 85,
+   "count": 80,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
@@ -1902,7 +1924,7 @@
   "visa-early-careers-visa-early-careers": {
    "company": "Visa early careers",
    "count": 48,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa_Early_Careers/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1911,7 +1933,7 @@
   "visa-visa": {
    "company": "Visa",
    "count": 285,
-   "failures": 1,
+   "failures": 2,
    "last_error": "POST https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs failed: HTTP 521",
    "last_ok": "2026-11-13",
    "seeded": true,
@@ -1919,7 +1941,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 131,
+   "count": 124,
    "failures": 0,
    "last_ok": "2026-11-14",
    "seeded": true,
