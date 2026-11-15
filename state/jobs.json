@@ -284,6 +284,7 @@
    "first_seen": "2026-11-10T23:21+00:00",
    "key": "url:expel.com/about/career-listing/8936554002",
    "location": "Remote (US)",
+   "missed": 1,
    "posted": "2026-09-24",
    "sources": [
     "hackedrico-2027-cyber-jobs"
@@ -964,6 +965,27 @@
    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/Any-Location--Remote/Identity-Security-Metrics-Consultant---Analyst_RQ232254",
    "years": 1
   },
+  "workday:gdit:rq232308": {
+   "alerted": "2026-11-15T09:57+00:00",
+   "company": "GDIT",
+   "first_seen": "2026-11-15T09:57+00:00",
+   "key": "workday:gdit:rq232308",
+   "location": "Any Location / Remote",
+   "posted": "2026-11-15",
+   "sources": [
+    "gdit-external-career-site"
+   ],
+   "status": "open",
+   "tags": [
+    "remote",
+    "clearance eligible"
+   ],
+   "tier": "stretch",
+   "title": "Static Application Security Tester/Penetration Tester",
+   "trusted": false,
+   "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/Any-Location--Remote/Static-Application-Security-Tester-Penetration-Tester_RQ232308",
+   "years": 3
+  },
   "workday:guidehouse:41570": {
    "alerted": "baseline",
    "company": "Guidehouse",
@@ -1579,7 +1601,7 @@
   },
   "american-express-cx-1": {
    "company": "American Express",
-   "count": 99,
+   "count": 95,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1619,7 +1641,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 976,
+   "count": 972,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1643,7 +1665,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 682,
+   "count": 680,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1706,7 +1728,7 @@
   },
   "fiserv-ext": {
    "company": "Fiserv",
-   "count": 130,
+   "count": 128,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1722,7 +1744,7 @@
   },
   "gdit-external-career-site": {
    "company": "GDIT",
-   "count": 901,
+   "count": 906,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1754,7 +1776,7 @@
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 359,
+   "count": 345,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1762,7 +1784,7 @@
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 371,
+   "count": 372,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1834,7 +1856,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 783,
+   "count": 784,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1898,7 +1920,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3138,
+   "count": 3137,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1930,7 +1952,7 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 59,
+   "count": 58,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1954,7 +1976,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 452,
+   "count": 444,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1962,7 +1984,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 79,
+   "count": 78,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1986,7 +2008,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 122,
+   "count": 117,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
