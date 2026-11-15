@@ -280,16 +280,16 @@
   },
   "url:expel.com/about/career-listing/8936554002": {
    "alerted": "2026-11-10T23:21+00:00",
+   "closed_on": "2026-11-15",
    "company": "Expel",
    "first_seen": "2026-11-10T23:21+00:00",
    "key": "url:expel.com/about/career-listing/8936554002",
    "location": "Remote (US)",
-   "missed": 1,
    "posted": "2026-09-24",
    "sources": [
     "hackedrico-2027-cyber-jobs"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [
     "entry level",
     "remote"
@@ -1343,6 +1343,7 @@
   "workday:accenture:14883232": "2026-11-05",
   "workday:accenture:14896128": "2026-11-03",
   "workday:accenture:14896133": "2026-11-03",
+  "workday:accenture:14912463": "2026-11-15",
   "workday:accenture:r00119332": "2026-11-03",
   "workday:accenture:r00236000": "2026-11-03",
   "workday:accenture:r00250583": "2026-11-03",
@@ -1593,7 +1594,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1211,
+   "count": 1209,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1609,7 +1610,7 @@
   },
   "at-t-attgeneral": {
    "company": "AT&T",
-   "count": 334,
+   "count": 328,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1808,7 +1809,7 @@
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 907,
+   "count": 910,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1864,7 +1865,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 667,
+   "count": 665,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1904,7 +1905,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 364,
+   "count": 363,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1920,7 +1921,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3137,
+   "count": 3134,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1952,7 +1953,7 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 58,
+   "count": 57,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -1976,7 +1977,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 444,
+   "count": 443,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -2000,7 +2001,7 @@
   },
   "visa-visa": {
    "company": "Visa",
-   "count": 284,
+   "count": 283,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
@@ -2008,7 +2009,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 117,
+   "count": 116,
    "failures": 0,
    "last_ok": "2026-11-15",
    "seeded": true,
