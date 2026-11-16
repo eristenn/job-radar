@@ -126,6 +126,7 @@
    "first_seen": "2026-11-10T23:21+00:00",
    "key": "oracle:eihu:2619023",
    "location": "Remote Work, TX, United States",
+   "missed": 1,
    "posted": "2026-11-10",
    "sources": [
     "hackedrico-2027-cyber-jobs",
@@ -278,6 +279,126 @@
    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6191766004?gh_jid=6191766004",
    "years": null
   },
+  "url:boards.greenhouse.io/guidepointsecurity/jobs/6208024004": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "GuidePoint Security",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:boards.greenhouse.io/guidepointsecurity/jobs/6208024004",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Microsoft Security Engineer- Remote (Anywhere in the U.S.)",
+   "trusted": true,
+   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6208024004?gh_jid=6208024004",
+   "years": null
+  },
+  "url:boards.greenhouse.io/guidepointsecurity/jobs/6212201004": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "GuidePoint Security",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:boards.greenhouse.io/guidepointsecurity/jobs/6212201004",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Vulnerability Management Engineer (ServiceNow) - Mid-Atlantic region (Remote)",
+   "trusted": false,
+   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6212201004?gh_jid=6212201004",
+   "years": null
+  },
+  "url:boards.greenhouse.io/guidepointsecurity/jobs/6225726004": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "GuidePoint Security",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:boards.greenhouse.io/guidepointsecurity/jobs/6225726004",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Security Engineer- Corporate Information Security- Remote (Anywhere in the U.S.)",
+   "trusted": true,
+   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6225726004?gh_jid=6225726004",
+   "years": null
+  },
+  "url:boards.greenhouse.io/guidepointsecurity/jobs/6231190004": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "GuidePoint Security",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:boards.greenhouse.io/guidepointsecurity/jobs/6231190004",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Fortinet Network Security Engineer - North Central region",
+   "trusted": true,
+   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6231190004?gh_jid=6231190004",
+   "years": null
+  },
+  "url:boards.greenhouse.io/guidepointsecurity/jobs/6238473004": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "GuidePoint Security",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:boards.greenhouse.io/guidepointsecurity/jobs/6238473004",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Threat Actor Engagement & Intelligence Consultant - Remote (Anywhere in the U.S.)",
+   "trusted": false,
+   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6238473004?gh_jid=6238473004",
+   "years": null
+  },
+  "url:boards.greenhouse.io/guidepointsecurity/jobs/6240609004": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "GuidePoint Security",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:boards.greenhouse.io/guidepointsecurity/jobs/6240609004",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "DFIR Consultant - Remote (Anywhere in the U.S.)",
+   "trusted": true,
+   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6240609004?gh_jid=6240609004",
+   "years": null
+  },
   "url:expel.com/about/career-listing/8936554002": {
    "alerted": "2026-11-10T23:21+00:00",
    "closed_on": "2026-11-15",
@@ -320,6 +441,26 @@
    "url": "https://instacart.careers/job/?gh_jid=8080512",
    "years": null
   },
+  "url:job-boards.greenhouse.io/affirm/jobs/8040751003": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "Affirm",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:job-boards.greenhouse.io/affirm/jobs/8040751003",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "stretch",
+   "title": "Software Engineer II - CIAM",
+   "trusted": true,
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
+   "years": null
+  },
   "url:job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009": {
    "alerted": "baseline",
    "company": "First Due",
@@ -337,6 +478,67 @@
    "tier": "fit",
    "title": "Cloud Security Software Engineer",
    "url": "https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
+   "years": null
+  },
+  "url:jobs.lever.co/avertium/166fd7e3-98d4-4538-b47c-42deb19995e8": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "Avertium",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:jobs.lever.co/avertium/166fd7e3-98d4-4538-b47c-42deb19995e8",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "CyberSecurity Analyst",
+   "trusted": true,
+   "url": "https://jobs.lever.co/avertium/166fd7e3-98d4-4538-b47c-42deb19995e8",
+   "years": null
+  },
+  "url:stripe.com/jobs/search": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "Stripe",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:stripe.com/jobs/search",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs",
+    "simplify-new-grad"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Software Engineer, Vulnerability Management",
+   "trusted": true,
+   "url": "https://stripe.com/jobs/search?gh_jid=8089353",
+   "years": null
+  },
+  "url:www.coinbase.com/careers/positions/8177619": {
+   "alerted": "2026-11-16T02:06+00:00",
+   "company": "Coinbase",
+   "first_seen": "2026-11-16T02:06+00:00",
+   "key": "url:www.coinbase.com/careers/positions/8177619",
+   "location": "Remote (US)",
+   "posted": "2026-11-16",
+   "sources": [
+    "hackedrico-2027-cyber-jobs"
+   ],
+   "status": "open",
+   "tags": [
+    "remote"
+   ],
+   "tier": "fit",
+   "title": "Threat Intelligence Platform Engineer",
+   "trusted": true,
+   "url": "https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619",
    "years": null
   },
   "url:www.samsara.com/company/careers/roles/8353283": {
@@ -1319,6 +1521,8 @@
   "oracle:ibqbjb:157450": "2026-11-03",
   "oracle:ibqbjb:161437": "2026-11-03",
   "url:job-boards.greenhouse.io/knowbe4/jobs/8700231002": "2026-11-03",
+  "url:jobs.ashbyhq.com/human/2ef78102-b19a-440b-8876-3bbc52c7f216": "2026-11-16",
+  "url:jobs.lever.co/coalfire/20c11af4-9b77-4865-97c9-641de598a4b7": "2026-11-16",
   "url:microsoft.eightfold.ai/careers/job/1970393557001498": "2026-11-03",
   "url:microsoft.eightfold.ai/careers/job/1970393557007527": "2026-11-03",
   "workday:accenture:13716705": "2026-11-10",
@@ -1594,9 +1798,9 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1209,
+   "count": 1205,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1604,7 +1808,7 @@
    "company": "American Express",
    "count": 94,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1612,7 +1816,7 @@
    "company": "AT&T",
    "count": 327,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1620,15 +1824,15 @@
    "company": "AT&T college",
    "count": 7,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "avnet-external": {
    "company": "Avnet",
-   "count": 26,
+   "count": 25,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1636,15 +1840,15 @@
    "company": "Bank of America",
    "count": 328,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 972,
+   "count": 970,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1652,7 +1856,7 @@
    "company": "Carter's",
    "count": 18,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1660,7 +1864,7 @@
    "company": "Ciena",
    "count": 26,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1668,7 +1872,7 @@
    "company": "Cisco",
    "count": 681,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1676,7 +1880,7 @@
    "company": "Cox Enterprises",
    "count": 39,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1684,7 +1888,7 @@
    "company": "CrowdStrike",
    "count": 361,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1699,7 +1903,7 @@
    "company": "Elevance Health",
    "count": 23,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1707,7 +1911,7 @@
    "company": "Equifax early careers",
    "count": 21,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1715,7 +1919,7 @@
    "company": "Equifax",
    "count": 54,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1723,15 +1927,15 @@
    "company": "Federal Reserve System",
    "count": 76,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "fiserv-ext": {
    "company": "Fiserv",
-   "count": 126,
+   "count": 123,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1739,7 +1943,7 @@
    "company": "GDIT early talent",
    "count": 21,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1747,7 +1951,7 @@
    "company": "GDIT",
    "count": 906,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1755,7 +1959,7 @@
    "company": "Genuine Parts Company",
    "count": 306,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1763,23 +1967,23 @@
    "company": "Global Payments",
    "count": 128,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "guidehouse-external": {
    "company": "Guidehouse",
-   "count": 623,
+   "count": 624,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 345,
+   "count": 384,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1787,7 +1991,7 @@
    "company": "Honeywell",
    "count": 371,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1795,7 +1999,7 @@
    "company": "Invesco early careers",
    "count": 12,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1803,15 +2007,15 @@
    "company": "Invesco",
    "count": 49,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 910,
+   "count": 911,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1819,7 +2023,7 @@
    "company": "LexisNexis Risk Solutions",
    "count": 198,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1827,23 +2031,23 @@
    "company": "Mastercard campus",
    "count": 23,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 582,
+   "count": 584,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "mckesson-external-careers": {
    "company": "McKesson",
-   "count": 350,
+   "count": 348,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1851,23 +2055,23 @@
    "company": "NCR Voyix",
    "count": 176,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 784,
+   "count": 785,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 663,
+   "count": 664,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1875,7 +2079,7 @@
    "company": "PulteGroup",
    "count": 3,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1883,7 +2087,7 @@
    "company": "PwC entry level",
    "count": 47,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1891,7 +2095,7 @@
    "company": "Regions Bank",
    "count": 58,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1899,7 +2103,7 @@
    "company": "SAIC",
    "count": 498,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1907,7 +2111,7 @@
    "company": "Salesforce",
    "count": 361,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1915,15 +2119,15 @@
    "company": "Sharecare",
    "count": 19,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3131,
+   "count": 3132,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1931,7 +2135,7 @@
    "company": "Southern Company (second site)",
    "count": 31,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1939,7 +2143,7 @@
    "company": "Southern Company",
    "count": 31,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1947,15 +2151,15 @@
    "company": "T-Mobile",
    "count": 318,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 57,
+   "count": 55,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1963,23 +2167,23 @@
    "company": "The Home Depot",
    "count": 270,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "truist-careers": {
    "company": "Truist",
-   "count": 154,
+   "count": 153,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
   "ups-search": {
    "company": "UPS",
-   "count": 444,
+   "count": 442,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1987,7 +2191,7 @@
    "company": "Verizon",
    "count": 77,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -1995,7 +2199,7 @@
    "company": "Visa early careers",
    "count": 48,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -2003,7 +2207,7 @@
    "company": "Visa",
    "count": 282,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   },
@@ -2011,7 +2215,7 @@
    "company": "Wells Fargo",
    "count": 114,
    "failures": 0,
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "seeded": true,
    "warned": false
   }
