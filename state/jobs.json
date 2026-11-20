@@ -62,16 +62,16 @@
   },
   "oracle:eihu:2617590": {
    "alerted": "baseline",
+   "closed_on": "2026-11-20",
    "company": "SAIC",
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "oracle:eihu:2617590",
    "location": "Remote Work, TX, United States",
-   "missed": 1,
    "posted": "2026-10-05",
    "sources": [
     "saic-cx"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [
     "remote"
    ],
@@ -147,16 +147,16 @@
   },
   "oracle:eihu:2619171": {
    "alerted": "2026-11-17T03:11+00:00",
+   "closed_on": "2026-11-20",
    "company": "SAIC",
    "first_seen": "2026-11-17T03:11+00:00",
    "key": "oracle:eihu:2619171",
    "location": "Remote Work, TN, United States",
-   "missed": 1,
    "posted": "2026-11-16",
    "sources": [
     "saic-cx"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [
     "remote"
    ],
@@ -490,6 +490,7 @@
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "url:job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
    "location": "Remote in USA",
+   "missed": 1,
    "posted": "2026-08-13",
    "sources": [
     "simplify-new-grad"
@@ -782,16 +783,16 @@
   },
   "workday:cox:r202684184": {
    "alerted": "baseline",
+   "closed_on": "2026-11-20",
    "company": "Cox Enterprises",
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "workday:cox:r202684184",
    "location": "Atlanta GA",
-   "missed": 1,
    "posted": "2026-10-28",
    "sources": [
     "cox-enterprises-cox-external-career-site-1"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [],
    "tier": "stretch",
    "title": "Cybersecurity Engineer II",
@@ -2050,6 +2051,7 @@
   "workday:guidehouse:45861": "2026-11-03",
   "workday:guidehouse:46394": "2026-11-11",
   "workday:guidehouse:46437": "2026-11-07",
+  "workday:guidehouse:46843": "2026-11-20",
   "workday:hpe:1214814": "2026-11-03",
   "workday:leidos:r-00191743": "2026-11-03",
   "workday:leidos:r-00192802": "2026-11-03",
@@ -2099,7 +2101,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1220,
+   "count": 1218,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2107,7 +2109,7 @@
   },
   "american-express-cx-1": {
    "company": "American Express",
-   "count": 116,
+   "count": 98,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2115,7 +2117,7 @@
   },
   "at-t-attgeneral": {
    "company": "AT&T",
-   "count": 344,
+   "count": 343,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2147,7 +2149,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 965,
+   "count": 967,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2155,7 +2157,7 @@
   },
   "carter-s-carterscareers": {
    "company": "Carter's",
-   "count": 14,
+   "count": 13,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2171,7 +2173,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 691,
+   "count": 678,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2179,7 +2181,7 @@
   },
   "cox-enterprises-cox-external-career-site-1": {
    "company": "Cox Enterprises",
-   "count": 31,
+   "count": 30,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2202,7 +2204,7 @@
   },
   "elevance-health-ant": {
    "company": "Elevance Health",
-   "count": 31,
+   "count": 28,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2234,7 +2236,7 @@
   },
   "fiserv-ext": {
    "company": "Fiserv",
-   "count": 131,
+   "count": 127,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2250,7 +2252,7 @@
   },
   "gdit-external-career-site": {
    "company": "GDIT",
-   "count": 911,
+   "count": 917,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2266,7 +2268,7 @@
   },
   "global-payments-tsys": {
    "company": "Global Payments",
-   "count": 123,
+   "count": 126,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2274,7 +2276,7 @@
   },
   "guidehouse-external": {
    "company": "Guidehouse",
-   "count": 660,
+   "count": 663,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2290,7 +2292,7 @@
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 380,
+   "count": 383,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2314,7 +2316,7 @@
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 914,
+   "count": 916,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2322,7 +2324,7 @@
   },
   "lexisnexis-risk-solutions-risksolutions": {
    "company": "LexisNexis Risk Solutions",
-   "count": 199,
+   "count": 197,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2338,7 +2340,7 @@
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 551,
+   "count": 549,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2346,7 +2348,7 @@
   },
   "mckesson-external-careers": {
    "company": "McKesson",
-   "count": 371,
+   "count": 370,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2362,7 +2364,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 775,
+   "count": 776,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2370,7 +2372,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 669,
+   "count": 668,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2386,7 +2388,7 @@
   },
   "pwc-entry-level-us-entry-level-careers": {
    "company": "PwC entry level",
-   "count": 28,
+   "count": 20,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2410,7 +2412,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 361,
+   "count": 363,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2426,7 +2428,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3003,
+   "count": 2994,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2434,7 +2436,7 @@
   },
   "southern-company-second-site-cx-1001": {
    "company": "Southern Company (second site)",
-   "count": 25,
+   "count": 24,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2442,7 +2444,7 @@
   },
   "southern-company-southerncompanyjobs": {
    "company": "Southern Company",
-   "count": 25,
+   "count": 24,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2450,7 +2452,7 @@
   },
   "t-mobile-external": {
    "company": "T-Mobile",
-   "count": 336,
+   "count": 337,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2458,7 +2460,7 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 66,
+   "count": 64,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2466,7 +2468,7 @@
   },
   "the-home-depot-careerdepot": {
    "company": "The Home Depot",
-   "count": 276,
+   "count": 275,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2474,7 +2476,7 @@
   },
   "truist-careers": {
    "company": "Truist",
-   "count": 154,
+   "count": 155,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2482,7 +2484,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 482,
+   "count": 461,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2490,7 +2492,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 84,
+   "count": 81,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2506,7 +2508,7 @@
   },
   "visa-visa": {
    "company": "Visa",
-   "count": 291,
+   "count": 288,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2514,7 +2516,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 151,
+   "count": 140,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
