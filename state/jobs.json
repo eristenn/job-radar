@@ -6,6 +6,7 @@
    "first_seen": "2026-11-12T22:51+00:00",
    "key": "oracle:ebqb:14747",
    "location": "Chicago, IL; Atlanta, GA; Dallas, TX; Houston, TX; McLean, VA; Minneapolis, MN; New York, NY; Washington, DC; Pittsburgh, PA; Nashville, TN",
+   "missed": 1,
    "posted": "2026-11-12",
    "sources": [
     "hackedrico-2027-cyber-jobs"
@@ -223,6 +224,26 @@
    "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SouthernCompanyJobs/job/22655",
    "years": 1
   },
+  "oracle:emje:22874": {
+   "alerted": "2026-11-20T17:18+00:00",
+   "company": "Southern Company",
+   "first_seen": "2026-11-20T17:18+00:00",
+   "key": "oracle:emje:22874",
+   "location": "Atlanta, GA, United States; Birmingham, AL, United States",
+   "posted": "2026-11-20",
+   "sources": [
+    "hackedrico-2027-cyber-jobs",
+    "southern-company-second-site-cx-1001",
+    "southern-company-southerncompanyjobs"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "Infrastructure Security Analyst",
+   "trusted": false,
+   "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SouthernCompanyJobs/job/22874",
+   "years": 2
+  },
   "url:abnormal.ai/careers/jobs/8197230003": {
    "alerted": "2026-11-07T08:47+00:00",
    "company": "Abnormal AI",
@@ -249,6 +270,7 @@
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "url:apply.workable.com/trailofbits/j/ba9f2fcda6",
    "location": "Remote (US)",
+   "missed": 1,
    "posted": "2026-09-29",
    "sources": [
     "hackedrico-2027-cyber-jobs"
@@ -348,6 +370,7 @@
    "first_seen": "2026-11-16T02:06+00:00",
    "key": "url:boards.greenhouse.io/guidepointsecurity/jobs/6225726004",
    "location": "Remote (US)",
+   "missed": 1,
    "posted": "2026-11-16",
    "sources": [
     "hackedrico-2027-cyber-jobs"
@@ -486,16 +509,16 @@
   },
   "url:job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009": {
    "alerted": "baseline",
+   "closed_on": "2026-11-20",
    "company": "First Due",
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "url:job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
    "location": "Remote in USA",
-   "missed": 1,
    "posted": "2026-08-13",
    "sources": [
     "simplify-new-grad"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [
     "remote"
    ],
@@ -725,6 +748,42 @@
    "trusted": false,
    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Oklahoma-City-525-NW-11th-St-Corp/Digital-Forensics---Incident-Response-Specialist_R00367592",
    "years": 2
+  },
+  "workday:accenture:r00373758": {
+   "alerted": "2026-11-20T17:18+00:00",
+   "company": "Accenture",
+   "first_seen": "2026-11-20T17:18+00:00",
+   "key": "workday:accenture:r00373758",
+   "location": "Philadelphia, 2001 Market St, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Cincinnati, 4th Street, Corp; New York, One Manhattan West, Corp; Cleveland, 1400 W 10th Street, Corp; Austin, 323 Congress Avenue, Corp; Albany, 69 State St, Corp; Chicago, Accenture Tower, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Hartford, 280 Trumbull, Corp; Pittsburgh, 1001 Liberty Ave, Corp; St. Louis, 4220 Duncan Avenue, Corp; Miami, 777 Brickell Ave, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; Morristown, 1 Speedwell Ave, Corp; San Francisco, 415 Mission Street, Corp; Boston, 888 Boylston, Corp; Denver, 999 18th St, Corp; Des Moines, 909 Locust, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Charlotte, 1120 S Tryon St., Corp; Carmel, 11939 N Meridian St., Corp; Seattle, 1191 2nd Avenue, Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Beaverton, 15220 NW Greenbrier, Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp",
+   "posted": "2026-11-20",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "stretch",
+   "title": "Palo Alto - Network Security Consultant",
+   "trusted": false,
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Philadelphia-2001-Market-St-Corp/Palo-Alto---Network-Security-Consultant_R00373758",
+   "years": 3
+  },
+  "workday:accenture:r00374051": {
+   "alerted": "2026-11-20T17:18+00:00",
+   "company": "Accenture",
+   "first_seen": "2026-11-20T17:18+00:00",
+   "key": "workday:accenture:r00374051",
+   "location": "Morristown, 1 Speedwell Ave, Corp; Milwaukee, 790 N Milwaukee St, Corp; Dallas, 5205 N OConnor Las Colinas, Corp; Columbus, 400 W. Nationwide Blvd, Corp; Kirkland, 416 6th Street South, Corp; Cincinnati, 4th Street, Corp; New York, One Manhattan West, Corp; Cleveland, 1400 W 10th Street, Corp; Oklahoma City, 525 NW 11th St, Corp; Austin, 323 Congress Avenue, Corp; Albany, 69 State St, Corp; Chicago, Accenture Tower, Corp; St. Pete, 140 Fountain Pkwy, Tampa Corp; Hartford, 280 Trumbull, Corp; Pittsburgh, 1001 Liberty Ave, Corp; St. Louis, 4220 Duncan Avenue, Corp; Miami, 777 Brickell Ave, Corp; Sacramento, 1610 R Street, Corp; Raleigh, 555 Fayetteville, Corp; Minneapolis, 333 S 7th, Corp; Mountain View, 650 Castro, Corp; Scottsdale, 15279 N Scottsdale Rd, Corp; San Francisco, 415 Mission Street, Corp; Denver, 999 18th St, Corp; Boston, 888 Boylston, Corp; Philadelphia, 2001 Market St, Corp; Des Moines, 909 Locust, Corp; Overland Park, 7300 W 110th Street, Corp; Los Angeles, 6181 W Centinela Ave, Corp; Charlotte, 1120 S Tryon St., Corp; Walnut Creek, 1255 Treat Blvd, Corp; Carmel, 11939 N Meridian St., Corp; Seattle, 1191 2nd Avenue, Corp; Houston, 1301 Fannin, Corp; Arlington, 1201 Wilson, Corp; Atlanta, 75 Fifth, Corp; Orlando, 9400 Southpark, Corp; Redmond, 8383 158th Avenue NE, Corp; Bentonville, 805 S Walton Blvd., Corp; Beaverton, 15220 NW Greenbrier, Corp; Nashville, 4101 Charlotte Ave., Corp; Detroit, 1240 Woodward, Corp; San Diego, 12680 High Bluff Dr, Corp",
+   "posted": "2026-11-20",
+   "sources": [
+    "accenture-accenturecareers"
+   ],
+   "status": "open",
+   "tags": [],
+   "tier": "fit",
+   "title": "Cybersecurity AI Forward Deployed Engineer Consultant",
+   "trusted": false,
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Morristown-1-Speedwell-Ave-Corp/Cybersecurity-AI-Forward-Deployed-Engineer-Consultant_R00374051",
+   "years": 1
   },
   "workday:att:r-121905-1": {
    "alerted": "baseline",
@@ -1994,6 +2053,7 @@
   "workday:bah:r0253823": "2026-11-19",
   "workday:bah:r0253856": "2026-11-20",
   "workday:bah:r0253862": "2026-11-20",
+  "workday:bah:r0253923": "2026-11-20",
   "workday:ciena:r031817": "2026-11-03",
   "workday:cisco:2012314": "2026-11-03",
   "workday:cisco:2030261": "2026-11-17",
@@ -2026,6 +2086,7 @@
   "workday:gdit:rq227745": "2026-11-03",
   "workday:gdit:rq228330": "2026-11-03",
   "workday:gdit:rq228908": "2026-11-03",
+  "workday:gdit:rq229128": "2026-11-20",
   "workday:gdit:rq229664": "2026-11-03",
   "workday:gdit:rq231847": "2026-11-05",
   "workday:genpt:0000028926": "2026-11-03",
@@ -2101,7 +2162,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1218,
+   "count": 1241,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2109,7 +2170,7 @@
   },
   "american-express-cx-1": {
    "company": "American Express",
-   "count": 98,
+   "count": 99,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2117,7 +2178,7 @@
   },
   "at-t-attgeneral": {
    "company": "AT&T",
-   "count": 343,
+   "count": 339,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2141,7 +2202,7 @@
   },
   "bank-of-america-us-emplsv": {
    "company": "Bank of America",
-   "count": 340,
+   "count": 339,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2149,7 +2210,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 967,
+   "count": 969,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2173,7 +2234,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 678,
+   "count": 676,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2181,7 +2242,7 @@
   },
   "cox-enterprises-cox-external-career-site-1": {
    "company": "Cox Enterprises",
-   "count": 30,
+   "count": 32,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2189,7 +2250,7 @@
   },
   "crowdstrike-crowdstrikecareers": {
    "company": "CrowdStrike",
-   "count": 372,
+   "count": 373,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2204,7 +2265,7 @@
   },
   "elevance-health-ant": {
    "company": "Elevance Health",
-   "count": 28,
+   "count": 29,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2220,7 +2281,7 @@
   },
   "equifax-external": {
    "company": "Equifax",
-   "count": 65,
+   "count": 66,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2228,7 +2289,7 @@
   },
   "federal-reserve-system-frs": {
    "company": "Federal Reserve System",
-   "count": 72,
+   "count": 74,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2236,7 +2297,7 @@
   },
   "fiserv-ext": {
    "company": "Fiserv",
-   "count": 127,
+   "count": 126,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2252,7 +2313,7 @@
   },
   "gdit-external-career-site": {
    "company": "GDIT",
-   "count": 917,
+   "count": 925,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2268,7 +2329,7 @@
   },
   "global-payments-tsys": {
    "company": "Global Payments",
-   "count": 126,
+   "count": 131,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2284,7 +2345,7 @@
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 413,
+   "count": 402,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2292,7 +2353,7 @@
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 383,
+   "count": 386,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2308,7 +2369,7 @@
   },
   "invesco-ivz": {
    "company": "Invesco",
-   "count": 50,
+   "count": 53,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2316,7 +2377,7 @@
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 916,
+   "count": 914,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2324,7 +2385,7 @@
   },
   "lexisnexis-risk-solutions-risksolutions": {
    "company": "LexisNexis Risk Solutions",
-   "count": 197,
+   "count": 192,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2340,7 +2401,7 @@
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 549,
+   "count": 548,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2348,7 +2409,7 @@
   },
   "mckesson-external-careers": {
    "company": "McKesson",
-   "count": 370,
+   "count": 377,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2356,7 +2417,7 @@
   },
   "ncr-voyix-ext-us": {
    "company": "NCR Voyix",
-   "count": 175,
+   "count": 172,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2364,7 +2425,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 776,
+   "count": 772,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2396,7 +2457,7 @@
   },
   "regions-bank-regions-careers": {
    "company": "Regions Bank",
-   "count": 63,
+   "count": 65,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2404,7 +2465,7 @@
   },
   "saic-cx": {
    "company": "SAIC",
-   "count": 507,
+   "count": 508,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2412,7 +2473,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 363,
+   "count": 362,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2428,7 +2489,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 2994,
+   "count": 2999,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2436,7 +2497,7 @@
   },
   "southern-company-second-site-cx-1001": {
    "company": "Southern Company (second site)",
-   "count": 24,
+   "count": 26,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2444,7 +2505,7 @@
   },
   "southern-company-southerncompanyjobs": {
    "company": "Southern Company",
-   "count": 24,
+   "count": 26,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2452,7 +2513,7 @@
   },
   "t-mobile-external": {
    "company": "T-Mobile",
-   "count": 337,
+   "count": 340,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2460,7 +2521,7 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 64,
+   "count": 67,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2468,7 +2529,7 @@
   },
   "the-home-depot-careerdepot": {
    "company": "The Home Depot",
-   "count": 275,
+   "count": 277,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2476,7 +2537,7 @@
   },
   "truist-careers": {
    "company": "Truist",
-   "count": 155,
+   "count": 157,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2484,7 +2545,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 461,
+   "count": 465,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2492,7 +2553,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 81,
+   "count": 84,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2500,7 +2561,7 @@
   },
   "visa-early-careers-visa-early-careers": {
    "company": "Visa early careers",
-   "count": 50,
+   "count": 52,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2508,7 +2569,7 @@
   },
   "visa-visa": {
    "company": "Visa",
-   "count": 288,
+   "count": 287,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
@@ -2516,7 +2577,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 140,
+   "count": 147,
    "failures": 0,
    "last_ok": "2026-11-20",
    "seeded": true,
