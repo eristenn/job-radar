@@ -903,6 +903,7 @@
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "workday:coke:r-147639",
    "location": "US - GA - Atlanta",
+   "missed": 1,
    "posted": "2026-10-15",
    "sources": [
     "the-coca-cola-company-coca-cola-careers"
@@ -2265,7 +2266,7 @@
   },
   "american-express-cx-1": {
    "company": "American Express",
-   "count": 101,
+   "count": 100,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2273,7 +2274,7 @@
   },
   "at-t-attgeneral": {
    "company": "AT&T",
-   "count": 344,
+   "count": 341,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2305,7 +2306,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 983,
+   "count": 981,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2329,7 +2330,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 683,
+   "count": 677,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2360,7 +2361,7 @@
   },
   "elevance-health-ant": {
    "company": "Elevance Health",
-   "count": 30,
+   "count": 28,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2384,7 +2385,7 @@
   },
   "federal-reserve-system-frs": {
    "company": "Federal Reserve System",
-   "count": 74,
+   "count": 69,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2408,7 +2409,7 @@
   },
   "gdit-external-career-site": {
    "company": "GDIT",
-   "count": 930,
+   "count": 928,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2472,7 +2473,7 @@
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 921,
+   "count": 922,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2520,7 +2521,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 776,
+   "count": 779,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2528,7 +2529,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 669,
+   "count": 668,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2544,7 +2545,7 @@
   },
   "pwc-entry-level-us-entry-level-careers": {
    "company": "PwC entry level",
-   "count": 20,
+   "count": 19,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2552,7 +2553,7 @@
   },
   "regions-bank-regions-careers": {
    "company": "Regions Bank",
-   "count": 64,
+   "count": 63,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2568,7 +2569,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 367,
+   "count": 366,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2584,7 +2585,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3017,
+   "count": 3016,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2592,7 +2593,7 @@
   },
   "southern-company-second-site-cx-1001": {
    "company": "Southern Company (second site)",
-   "count": 28,
+   "count": 26,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2600,7 +2601,7 @@
   },
   "southern-company-southerncompanyjobs": {
    "company": "Southern Company",
-   "count": 28,
+   "count": 26,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2608,7 +2609,7 @@
   },
   "t-mobile-external": {
    "company": "T-Mobile",
-   "count": 342,
+   "count": 341,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2616,7 +2617,7 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 67,
+   "count": 61,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2632,7 +2633,7 @@
   },
   "truist-careers": {
    "company": "Truist",
-   "count": 156,
+   "count": 155,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2640,7 +2641,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 473,
+   "count": 465,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2648,7 +2649,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 85,
+   "count": 82,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2672,7 +2673,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 151,
+   "count": 140,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
