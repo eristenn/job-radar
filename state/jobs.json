@@ -899,16 +899,16 @@
   },
   "workday:coke:r-147639": {
    "alerted": "baseline",
+   "closed_on": "2026-11-21",
    "company": "The Coca-Cola Company",
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "workday:coke:r-147639",
    "location": "US - GA - Atlanta",
-   "missed": 1,
    "posted": "2026-10-15",
    "sources": [
     "the-coca-cola-company-coca-cola-careers"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [],
    "tier": "stretch",
    "title": "Cybersecurity Auditor \u2013 Identity & Access Management",
@@ -2330,7 +2330,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 677,
+   "count": 678,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2425,7 +2425,7 @@
   },
   "global-payments-tsys": {
    "company": "Global Payments",
-   "count": 129,
+   "count": 128,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2441,7 +2441,7 @@
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 403,
+   "count": 402,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2449,7 +2449,7 @@
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 390,
+   "count": 391,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2473,7 +2473,7 @@
   },
   "leidos-external": {
    "company": "Leidos",
-   "count": 922,
+   "count": 921,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2481,7 +2481,7 @@
   },
   "lexisnexis-risk-solutions-risksolutions": {
    "company": "LexisNexis Risk Solutions",
-   "count": 192,
+   "count": 191,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2521,7 +2521,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 779,
+   "count": 774,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2569,7 +2569,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 366,
+   "count": 365,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2625,7 +2625,7 @@
   },
   "the-home-depot-careerdepot": {
    "company": "The Home Depot",
-   "count": 283,
+   "count": 286,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2641,7 +2641,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 465,
+   "count": 466,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2649,7 +2649,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 82,
+   "count": 80,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
@@ -2673,7 +2673,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 140,
+   "count": 137,
    "failures": 0,
    "last_ok": "2026-11-21",
    "seeded": true,
