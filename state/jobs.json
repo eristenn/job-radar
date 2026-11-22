@@ -83,17 +83,17 @@
   },
   "oracle:eihu:2618119": {
    "alerted": "2026-11-10T23:21+00:00",
+   "closed_on": "2026-11-22",
    "company": "SAIC",
    "first_seen": "2026-11-10T23:21+00:00",
    "key": "oracle:eihu:2618119",
    "location": "Remote Work, VA, United States",
-   "missed": 1,
    "posted": "2026-11-10",
    "sources": [
     "hackedrico-2027-cyber-jobs",
     "saic-cx"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [
     "remote",
     "clearance eligible"
@@ -2267,7 +2267,7 @@
   },
   "american-express-cx-1": {
    "company": "American Express",
-   "count": 100,
+   "count": 99,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2307,7 +2307,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 980,
+   "count": 981,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2331,7 +2331,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 678,
+   "count": 679,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2394,7 +2394,7 @@
   },
   "fiserv-ext": {
    "company": "Fiserv",
-   "count": 125,
+   "count": 121,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2410,7 +2410,7 @@
   },
   "gdit-external-career-site": {
    "company": "GDIT",
-   "count": 928,
+   "count": 934,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2426,7 +2426,7 @@
   },
   "global-payments-tsys": {
    "company": "Global Payments",
-   "count": 128,
+   "count": 127,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2522,7 +2522,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 775,
+   "count": 771,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2554,7 +2554,7 @@
   },
   "regions-bank-regions-careers": {
    "company": "Regions Bank",
-   "count": 63,
+   "count": 61,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2586,7 +2586,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3015,
+   "count": 3017,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2618,7 +2618,7 @@
   },
   "the-coca-cola-company-coca-cola-careers": {
    "company": "The Coca-Cola Company",
-   "count": 61,
+   "count": 60,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2642,7 +2642,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 465,
+   "count": 454,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2650,7 +2650,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 80,
+   "count": 79,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2674,7 +2674,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 137,
+   "count": 133,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
