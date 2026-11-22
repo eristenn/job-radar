@@ -1977,6 +1977,7 @@
   "workday:accenture:14578241": "2026-11-03",
   "workday:accenture:14663037": "2026-11-03",
   "workday:accenture:14673458": "2026-11-05",
+  "workday:accenture:14673466": "2026-11-22",
   "workday:accenture:14700010": "2026-11-10",
   "workday:accenture:14715395": "2026-11-16",
   "workday:accenture:14775738": "2026-11-03",
@@ -2259,7 +2260,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1267,
+   "count": 1269,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2275,7 +2276,7 @@
   },
   "at-t-attgeneral": {
    "company": "AT&T",
-   "count": 341,
+   "count": 336,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2331,7 +2332,7 @@
   },
   "cisco-cisco-careers": {
    "company": "Cisco",
-   "count": 679,
+   "count": 677,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2450,7 +2451,7 @@
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 391,
+   "count": 392,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2490,7 +2491,7 @@
   },
   "mastercard-campus-campus": {
    "company": "Mastercard campus",
-   "count": 20,
+   "count": 19,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2498,7 +2499,7 @@
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 546,
+   "count": 545,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2522,7 +2523,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 771,
+   "count": 775,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2530,7 +2531,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 668,
+   "count": 665,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2570,7 +2571,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 365,
+   "count": 366,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2642,7 +2643,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 454,
+   "count": 452,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
