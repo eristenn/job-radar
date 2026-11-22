@@ -2260,7 +2260,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1269,
+   "count": 1266,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2308,7 +2308,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 981,
+   "count": 980,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2427,7 +2427,7 @@
   },
   "global-payments-tsys": {
    "company": "Global Payments",
-   "count": 127,
+   "count": 126,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2435,7 +2435,7 @@
   },
   "guidehouse-external": {
    "company": "Guidehouse",
-   "count": 661,
+   "count": 659,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2443,7 +2443,7 @@
   },
   "hackedrico-2027-cyber-jobs": {
    "company": "2027 cyber jobs list",
-   "count": 395,
+   "count": 394,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2483,7 +2483,7 @@
   },
   "lexisnexis-risk-solutions-risksolutions": {
    "company": "LexisNexis Risk Solutions",
-   "count": 191,
+   "count": 190,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2499,7 +2499,7 @@
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 545,
+   "count": 546,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2523,7 +2523,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 775,
+   "count": 774,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2531,7 +2531,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 665,
+   "count": 664,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2571,7 +2571,7 @@
   },
   "salesforce-external-career-site": {
    "company": "Salesforce",
-   "count": 366,
+   "count": 364,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2587,7 +2587,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 3017,
+   "count": 3019,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2651,7 +2651,7 @@
   },
   "verizon-verizon-careers": {
    "company": "Verizon",
-   "count": 79,
+   "count": 80,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
@@ -2675,7 +2675,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 133,
+   "count": 132,
    "failures": 0,
    "last_ok": "2026-11-22",
    "seeded": true,
