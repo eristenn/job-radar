@@ -2008,16 +2008,16 @@
   },
   "workday:regions:r107301": {
    "alerted": "baseline",
+   "closed_on": "2026-11-27",
    "company": "Regions Bank",
    "first_seen": "2026-11-03T22:36+00:00",
    "key": "workday:regions:r107301",
    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL); Charlotte, NC - Charlotte Uptown Branch; Nashville, TN - Nashville Operations Center; Atlanta, GA - Regions Plaza Office",
-   "missed": 1,
    "posted": "2026-10-30",
    "sources": [
     "regions-bank-regions-careers"
    ],
-   "status": "open",
+   "status": "closed",
    "tags": [],
    "tier": "stretch",
    "title": "Cyber Security Engineer",
@@ -2152,6 +2152,7 @@
   "url:microsoft.eightfold.ai/careers/job/1970393557045435": "2026-11-16",
   "workday:accenture:13716705": "2026-11-10",
   "workday:accenture:13720799": "2026-11-10",
+  "workday:accenture:13943706": "2026-11-27",
   "workday:accenture:13944448": "2026-11-03",
   "workday:accenture:14265836": "2026-11-03",
   "workday:accenture:14267171": "2026-11-03",
@@ -2214,6 +2215,7 @@
   "workday:accenture:r00337926": "2026-11-03",
   "workday:accenture:r00337973": "2026-11-03",
   "workday:accenture:r00338126": "2026-11-03",
+  "workday:accenture:r00339088": "2026-11-27",
   "workday:accenture:r00339940": "2026-11-03",
   "workday:accenture:r00339945": "2026-11-03",
   "workday:accenture:r00343167": "2026-11-03",
@@ -2222,6 +2224,7 @@
   "workday:accenture:r00343479": "2026-11-03",
   "workday:accenture:r00344412": "2026-11-03",
   "workday:accenture:r00344415": "2026-11-03",
+  "workday:accenture:r00344435": "2026-11-27",
   "workday:accenture:r00344446": "2026-11-03",
   "workday:accenture:r00347602": "2026-11-03",
   "workday:accenture:r00347648": "2026-11-03",
@@ -2289,6 +2292,7 @@
   "workday:accenture:r00369416": "2026-11-09",
   "workday:accenture:r00369417": "2026-11-09",
   "workday:accenture:r00369736": "2026-11-06",
+  "workday:accenture:r00370877": "2026-11-27",
   "workday:accenture:r00371933": "2026-11-12",
   "workday:accenture:r00372275": "2026-11-19",
   "workday:accenture:r00374485": "2026-11-25",
@@ -2458,7 +2462,7 @@
  "sources": {
   "accenture-accenturecareers": {
    "company": "Accenture",
-   "count": 1245,
+   "count": 1311,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2474,7 +2478,7 @@
   },
   "at-t-attgeneral": {
    "company": "AT&T",
-   "count": 346,
+   "count": 345,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2498,7 +2502,7 @@
   },
   "bank-of-america-us-emplsv": {
    "company": "Bank of America",
-   "count": 331,
+   "count": 330,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2506,7 +2510,7 @@
   },
   "booz-allen-bah-jobs": {
    "company": "Booz Allen",
-   "count": 986,
+   "count": 995,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2514,7 +2518,7 @@
   },
   "carter-s-carterscareers": {
    "company": "Carter's",
-   "count": 11,
+   "count": 13,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2546,7 +2550,7 @@
   },
   "crowdstrike-crowdstrikecareers": {
    "company": "CrowdStrike",
-   "count": 363,
+   "count": 362,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2577,7 +2581,7 @@
   },
   "equifax-external": {
    "company": "Equifax",
-   "count": 64,
+   "count": 62,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2593,7 +2597,7 @@
   },
   "fiserv-ext": {
    "company": "Fiserv",
-   "count": 147,
+   "count": 149,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2633,7 +2637,7 @@
   },
   "guidehouse-external": {
    "company": "Guidehouse",
-   "count": 673,
+   "count": 672,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2649,7 +2653,7 @@
   },
   "honeywell-honeywell": {
    "company": "Honeywell",
-   "count": 381,
+   "count": 382,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2665,7 +2669,7 @@
   },
   "invesco-ivz": {
    "company": "Invesco",
-   "count": 51,
+   "count": 50,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2681,7 +2685,7 @@
   },
   "lexisnexis-risk-solutions-risksolutions": {
    "company": "LexisNexis Risk Solutions",
-   "count": 179,
+   "count": 178,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2697,7 +2701,7 @@
   },
   "mastercard-corporatecareers": {
    "company": "Mastercard",
-   "count": 526,
+   "count": 527,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2721,7 +2725,7 @@
   },
   "oracle-cx-45001": {
    "company": "Oracle",
-   "count": 796,
+   "count": 812,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2729,7 +2733,7 @@
   },
   "palo-alto-networks-panwexternalcareers": {
    "company": "Palo Alto Networks",
-   "count": 658,
+   "count": 657,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2761,7 +2765,7 @@
   },
   "saic-cx": {
    "company": "SAIC",
-   "count": 504,
+   "count": 501,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2785,7 +2789,7 @@
   },
   "simplify-new-grad": {
    "company": "Simplify new-grad list",
-   "count": 2941,
+   "count": 2937,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2809,7 +2813,7 @@
   },
   "t-mobile-external": {
    "company": "T-Mobile",
-   "count": 336,
+   "count": 337,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2825,7 +2829,7 @@
   },
   "the-home-depot-careerdepot": {
    "company": "The Home Depot",
-   "count": 292,
+   "count": 294,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2841,7 +2845,7 @@
   },
   "ups-search": {
    "company": "UPS",
-   "count": 417,
+   "count": 425,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
@@ -2873,7 +2877,7 @@
   },
   "wells-fargo-wellsfargojobs": {
    "company": "Wells Fargo",
-   "count": 119,
+   "count": 121,
    "failures": 0,
    "last_ok": "2026-11-27",
    "seeded": true,
